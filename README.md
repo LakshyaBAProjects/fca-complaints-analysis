@@ -16,8 +16,8 @@ A business analysis of FCA complaints data (H1 2026 release), taken from problem
 | `clean_data.py` | Loads and reshapes both FCA files into `complaints.db` |
 
 ## Outputs
-- Dashboard (five pages): link to be added once shared.
-- Business-case calculator (illustrative assumptions, replaceable): link to be added once shared.
+- [Live dashboard](https://claude.ai/artifact/ADBfkRnV5GMB41bB7cvRzQ): trend, closing mix, product groups, anonymised firm benchmark, data limits.
+- [Business-case calculator](https://claude.ai/artifact/1A7E4Vjrdnr6Ff5zzR3xoq): illustrative placeholder assumptions for a mid-size bank. Replace the yellow cells with real figures.
 - Findings memo: `05_findings/findings_and_recommendations.md`.
 
 ## Method

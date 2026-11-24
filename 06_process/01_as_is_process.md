@@ -14,6 +14,10 @@
 | Escalation | Customer may refer to the Financial Ombudsman Service |
 
 ## Flow
+![As-is process](01_as_is_process.jpg)
+
+Editable source: `01_as_is_process.drawio` (open in draw.io). Text version:
+
 ```mermaid
 flowchart TD
     A[Customer complains<br/>phone, app, branch, letter] --> B[Log complaint<br/>in case system]

@@ -10,6 +10,10 @@
 5. Track the FCA bands internally every week.
 
 ## Flow
+![To-be process](02_to_be_process.jpg)
+
+Editable source: `02_to_be_process.drawio` (open in draw.io). Text version:
+
 ```mermaid
 flowchart TD
     A[Customer complains] --> B[Log and acknowledge<br/>same day]

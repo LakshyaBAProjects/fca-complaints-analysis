@@ -20,6 +20,15 @@ A business analysis of FCA complaints data (H1 2026 release), taken from problem
 - [Business-case calculator](https://claude.ai/artifact/1A7E4Vjrdnr6Ff5zzR3xoq): illustrative placeholder assumptions for a mid-size bank. Replace the yellow cells with real figures.
 - Findings memo: `05_findings/findings_and_recommendations.md`.
 
+## Process maps
+As-is process (simulated bank):
+
+![As-is process](06_process/01_as_is_process.jpg)
+
+Proposed to-be process (design ideas to test, not proven fixes):
+
+![To-be process](06_process/02_to_be_process.jpg)
+
 ## Method
 1. Framed the business problem and requirements (BRD, user stories).
 2. Cleaned and reshaped the aggregate (long) and firm-level (wide) FCA files with Python and SQLite.

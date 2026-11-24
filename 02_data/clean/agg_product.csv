@@ -1,0 +1,1051 @@
+half_year,product_group,product,variable_type,volume
+2021 H2,Banking and credit cards,Credit cards,Complaints opened,194183
+2021 H2,Banking and credit cards,Credit cards,Provision,53114624
+2021 H2,Banking and credit cards,Current accounts,Complaints opened,526609
+2021 H2,Banking and credit cards,Current accounts,Provision,109014716
+2021 H2,Banking and credit cards,Other banking - Please provide details below,Complaints opened,33062
+2021 H2,Banking and credit cards,Other banking - Please provide details below,Provision,11050004
+2021 H2,Banking and credit cards,Overdrafts,Complaints opened,15457
+2021 H2,Banking and credit cards,Overdrafts,Provision,46905885
+2021 H2,Banking and credit cards,Packaged accounts,Complaints opened,57217
+2021 H2,Banking and credit cards,Packaged accounts,Provision,7320823
+2021 H2,Banking and credit cards,Savings (including ISAs),Complaints opened,52268
+2021 H2,Banking and credit cards,Savings (including ISAs),Provision,117095882
+2021 H2,Banking and credit cards,Total banking and credit cards,Provision,6512901
+2021 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,4500
+2021 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6441184
+2021 H2,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,45
+2021 H2,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2021 H2,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,4495
+2021 H2,Decumulation & pensions,Drawdown and UFPLS,Provision,840604
+2021 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,36702
+2021 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,13647281
+2021 H2,Decumulation & pensions,Other decumulation,Complaints opened,23
+2021 H2,Decumulation & pensions,Other decumulation,Provision,0
+2021 H2,Decumulation & pensions,Other pensions,Complaints opened,309
+2021 H2,Decumulation & pensions,Other pensions,Provision,640731
+2021 H2,Decumulation & pensions,Pensions packaged multi products,Complaints opened,16
+2021 H2,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2021 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,75
+2021 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,18028
+2021 H2,Decumulation & pensions,Total decumulation & pensions,Provision,9554868
+2021 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,4393
+2021 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,9619614
+2021 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,11906
+2021 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,14110041
+2021 H2,Home finance,Equity release,Complaints opened,2411
+2021 H2,Home finance,Equity release,Provision,156793
+2021 H2,Home finance,Impaired credit,Complaints opened,656
+2021 H2,Home finance,Impaired credit,Provision,46230
+2021 H2,Home finance,Other regulated home finance products,Complaints opened,69697
+2021 H2,Home finance,Other regulated home finance products,Provision,10435151
+2021 H2,Home finance,Other unregulated home finance products,Complaints opened,15548
+2021 H2,Home finance,Other unregulated home finance products,Provision,2650768
+2021 H2,Home finance,Second and subsequent charge,Complaints opened,2213
+2021 H2,Home finance,Second and subsequent charge,Provision,45426
+2021 H2,Home finance,Total home finance,Provision,3137728728
+2021 H2,Insurance & pure protection,Assistance,Complaints opened,29078
+2021 H2,Insurance & pure protection,Assistance,Provision,23586813
+2021 H2,Insurance & pure protection,General insurance packaged multi products,Complaints opened,9083
+2021 H2,Insurance & pure protection,General insurance packaged multi products,Provision,15027301
+2021 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,3216
+2021 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,6331400
+2021 H2,Insurance & pure protection,Medical/health,Complaints opened,69749
+2021 H2,Insurance & pure protection,Medical/health,Provision,8158088
+2021 H2,Insurance & pure protection,Motor & transport,Complaints opened,218048
+2021 H2,Insurance & pure protection,Motor & transport,Provision,70562030
+2021 H2,Insurance & pure protection,Other general insurance,Complaints opened,252365
+2021 H2,Insurance & pure protection,Other general insurance,Provision,62129654
+2021 H2,Insurance & pure protection,Other pure protection,Complaints opened,944
+2021 H2,Insurance & pure protection,Other pure protection,Provision,763431
+2021 H2,Insurance & pure protection,Payment protection insurance,Complaints opened,16378
+2021 H2,Insurance & pure protection,Payment protection insurance,Provision,23644263
+2021 H2,Insurance & pure protection,Pet,Complaints opened,21192
+2021 H2,Insurance & pure protection,Pet,Provision,4316116
+2021 H2,Insurance & pure protection,Property,Complaints opened,86501
+2021 H2,Insurance & pure protection,Property,Provision,37123530
+2021 H2,Insurance & pure protection,Protection packaged multi products,Complaints opened,363
+2021 H2,Insurance & pure protection,Protection packaged multi products,Provision,8524
+2021 H2,Insurance & pure protection,Total insurance & pure protection,Provision,80023649
+2021 H2,Insurance & pure protection,Travel,Complaints opened,16178
+2021 H2,Insurance & pure protection,Travel,Provision,14267163
+2021 H2,Insurance & pure protection,Warranty,Complaints opened,52091
+2021 H2,Insurance & pure protection,Warranty,Provision,19902441
+2021 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,24014
+2021 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,24915912
+2021 H2,Investments,Crowdfunding / Peer to Peer,Complaints opened,609
+2021 H2,Investments,Crowdfunding / Peer to Peer,Provision,37362
+2021 H2,Investments,Discretionary management services,Complaints opened,1030
+2021 H2,Investments,Discretionary management services,Provision,304674
+2021 H2,Investments,Endowments,Complaints opened,3995
+2021 H2,Investments,Endowments,Provision,1698946
+2021 H2,Investments,ETPs,Complaints opened,382
+2021 H2,Investments,ETPs,Provision,0
+2021 H2,Investments,FX/CFD/Spreadbetting,Complaints opened,1095
+2021 H2,Investments,FX/CFD/Spreadbetting,Provision,64316
+2021 H2,Investments,Investment bonds ,Complaints opened,7258
+2021 H2,Investments,Investment bonds ,Provision,2508890
+2021 H2,Investments,Investment packaged multi products,Complaints opened,29
+2021 H2,Investments,Investment packaged multi products,Provision,4153
+2021 H2,Investments,Investment trusts,Complaints opened,657
+2021 H2,Investments,Investment trusts,Provision,1780
+2021 H2,Investments,ISAs (where investment held),Complaints opened,17959
+2021 H2,Investments,ISAs (where investment held),Provision,7601669
+2021 H2,Investments,Non-discretionary management services,Complaints opened,1034
+2021 H2,Investments,Non-discretionary management services,Provision,3904028
+2021 H2,Investments,Other investment products/funds,Complaints opened,6672
+2021 H2,Investments,Other investment products/funds,Provision,10826514
+2021 H2,Investments,Platforms,Complaints opened,7778
+2021 H2,Investments,Platforms,Provision,5380065
+2021 H2,Investments,Structured products,Complaints opened,205
+2021 H2,Investments,Structured products,Provision,28198
+2021 H2,Investments,Total investments,Provision,387579348
+2021 H2,Investments,UCITS,Complaints opened,147
+2021 H2,Investments,UCITS,Provision,64233
+2021 H2,Investments,Unit trusts/OEICs,Complaints opened,4389
+2021 H2,Investments,Unit trusts/OEICs,Provision,2926220
+2022 H1,Banking and credit cards,Credit cards,Complaints opened,199359
+2022 H1,Banking and credit cards,Credit cards,Provision,54274046
+2022 H1,Banking and credit cards,Current accounts,Complaints opened,528850
+2022 H1,Banking and credit cards,Current accounts,Provision,111791588
+2022 H1,Banking and credit cards,Other banking - Please provide details below,Complaints opened,30784
+2022 H1,Banking and credit cards,Other banking - Please provide details below,Provision,11768578
+2022 H1,Banking and credit cards,Overdrafts,Complaints opened,14648
+2022 H1,Banking and credit cards,Overdrafts,Provision,46850594
+2022 H1,Banking and credit cards,Packaged accounts,Complaints opened,45935
+2022 H1,Banking and credit cards,Packaged accounts,Provision,6377051
+2022 H1,Banking and credit cards,Savings (including ISAs),Complaints opened,51419
+2022 H1,Banking and credit cards,Savings (including ISAs),Provision,122253735
+2022 H1,Banking and credit cards,Total banking and credit cards,Provision,6647013
+2022 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,4978
+2022 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6001689
+2022 H1,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,25
+2022 H1,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2022 H1,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,5012
+2022 H1,Decumulation & pensions,Drawdown and UFPLS,Provision,928426
+2022 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,38629
+2022 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,12873911
+2022 H1,Decumulation & pensions,Other decumulation,Complaints opened,21
+2022 H1,Decumulation & pensions,Other decumulation,Provision,0
+2022 H1,Decumulation & pensions,Other pensions,Complaints opened,320
+2022 H1,Decumulation & pensions,Other pensions,Provision,559161
+2022 H1,Decumulation & pensions,Pensions packaged multi products,Complaints opened,20
+2022 H1,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2022 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,74
+2022 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,17465
+2022 H1,Decumulation & pensions,Total decumulation & pensions,Provision,7609962
+2022 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,7201
+2022 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,10180648
+2022 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,13921
+2022 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,13552347
+2022 H1,Home finance,Equity release,Complaints opened,2699
+2022 H1,Home finance,Equity release,Provision,151659
+2022 H1,Home finance,Impaired credit,Complaints opened,559
+2022 H1,Home finance,Impaired credit,Provision,35307
+2022 H1,Home finance,Other regulated home finance products,Complaints opened,68234
+2022 H1,Home finance,Other regulated home finance products,Provision,15346051
+2022 H1,Home finance,Other unregulated home finance products,Complaints opened,15016
+2022 H1,Home finance,Other unregulated home finance products,Provision,4258125
+2022 H1,Home finance,Second and subsequent charge,Complaints opened,2107
+2022 H1,Home finance,Second and subsequent charge,Provision,41245
+2022 H1,Home finance,Total home finance,Provision,408171849
+2022 H1,Insurance & pure protection,Assistance,Complaints opened,26428
+2022 H1,Insurance & pure protection,Assistance,Provision,22711856
+2022 H1,Insurance & pure protection,General insurance packaged multi products,Complaints opened,23796
+2022 H1,Insurance & pure protection,General insurance packaged multi products,Provision,9456220
+2022 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,3393
+2022 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,8939923
+2022 H1,Insurance & pure protection,Medical/health,Complaints opened,76789
+2022 H1,Insurance & pure protection,Medical/health,Provision,8408323
+2022 H1,Insurance & pure protection,Motor & transport,Complaints opened,244941
+2022 H1,Insurance & pure protection,Motor & transport,Provision,79107681
+2022 H1,Insurance & pure protection,Other general insurance,Complaints opened,252795
+2022 H1,Insurance & pure protection,Other general insurance,Provision,78075484
+2022 H1,Insurance & pure protection,Other pure protection,Complaints opened,840
+2022 H1,Insurance & pure protection,Other pure protection,Provision,911864
+2022 H1,Insurance & pure protection,Payment protection insurance,Complaints opened,6687
+2022 H1,Insurance & pure protection,Payment protection insurance,Provision,17529642
+2022 H1,Insurance & pure protection,Pet,Complaints opened,22028
+2022 H1,Insurance & pure protection,Pet,Provision,4564996
+2022 H1,Insurance & pure protection,Property,Complaints opened,94638
+2022 H1,Insurance & pure protection,Property,Provision,39691043
+2022 H1,Insurance & pure protection,Protection packaged multi products,Complaints opened,487
+2022 H1,Insurance & pure protection,Protection packaged multi products,Provision,42859
+2022 H1,Insurance & pure protection,Total insurance & pure protection,Provision,105213495
+2022 H1,Insurance & pure protection,Travel,Complaints opened,22386
+2022 H1,Insurance & pure protection,Travel,Provision,22475560
+2022 H1,Insurance & pure protection,Warranty,Complaints opened,44077
+2022 H1,Insurance & pure protection,Warranty,Provision,18025326
+2022 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,23689
+2022 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,24601436
+2022 H1,Investments,Crowdfunding / Peer to Peer,Complaints opened,602
+2022 H1,Investments,Crowdfunding / Peer to Peer,Provision,0
+2022 H1,Investments,Discretionary management services,Complaints opened,1029
+2022 H1,Investments,Discretionary management services,Provision,305113
+2022 H1,Investments,Endowments,Complaints opened,4188
+2022 H1,Investments,Endowments,Provision,1553583
+2022 H1,Investments,ETPs,Complaints opened,326
+2022 H1,Investments,ETPs,Provision,2935
+2022 H1,Investments,FX/CFD/Spreadbetting,Complaints opened,1358
+2022 H1,Investments,FX/CFD/Spreadbetting,Provision,91739
+2022 H1,Investments,Investment bonds ,Complaints opened,7603
+2022 H1,Investments,Investment bonds ,Provision,2370740
+2022 H1,Investments,Investment packaged multi products,Complaints opened,48
+2022 H1,Investments,Investment packaged multi products,Provision,1124
+2022 H1,Investments,Investment trusts,Complaints opened,543
+2022 H1,Investments,Investment trusts,Provision,1757
+2022 H1,Investments,ISAs (where investment held),Complaints opened,18198
+2022 H1,Investments,ISAs (where investment held),Provision,7765629
+2022 H1,Investments,Non-discretionary management services,Complaints opened,885
+2022 H1,Investments,Non-discretionary management services,Provision,2180600
+2022 H1,Investments,Other investment products/funds,Complaints opened,8536
+2022 H1,Investments,Other investment products/funds,Provision,10723173
+2022 H1,Investments,Platforms,Complaints opened,5928
+2022 H1,Investments,Platforms,Provision,3604573
+2022 H1,Investments,Structured products,Complaints opened,198
+2022 H1,Investments,Structured products,Provision,24198
+2022 H1,Investments,Total investments,Provision,270646285
+2022 H1,Investments,UCITS,Complaints opened,191
+2022 H1,Investments,UCITS,Provision,83623
+2022 H1,Investments,Unit trusts/OEICs,Complaints opened,4293
+2022 H1,Investments,Unit trusts/OEICs,Provision,2648449
+2022 H2,Banking and credit cards,Credit cards,Complaints opened,188200
+2022 H2,Banking and credit cards,Credit cards,Provision,54130275
+2022 H2,Banking and credit cards,Current accounts,Complaints opened,500371
+2022 H2,Banking and credit cards,Current accounts,Provision,115867985
+2022 H2,Banking and credit cards,Other banking - Please provide details below,Complaints opened,28197
+2022 H2,Banking and credit cards,Other banking - Please provide details below,Provision,12021865
+2022 H2,Banking and credit cards,Overdrafts,Complaints opened,12182
+2022 H2,Banking and credit cards,Overdrafts,Provision,47646850
+2022 H2,Banking and credit cards,Packaged accounts,Complaints opened,26178
+2022 H2,Banking and credit cards,Packaged accounts,Provision,7403669
+2022 H2,Banking and credit cards,Savings (including ISAs),Complaints opened,69373
+2022 H2,Banking and credit cards,Savings (including ISAs),Provision,118424462
+2022 H2,Banking and credit cards,Total banking and credit cards,Provision,6794079
+2022 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,6494
+2022 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6405483
+2022 H2,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,1
+2022 H2,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2022 H2,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,5075
+2022 H2,Decumulation & pensions,Drawdown and UFPLS,Provision,911031
+2022 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,38543
+2022 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,12874642
+2022 H2,Decumulation & pensions,Other decumulation,Complaints opened,57
+2022 H2,Decumulation & pensions,Other decumulation,Provision,0
+2022 H2,Decumulation & pensions,Other pensions,Complaints opened,270
+2022 H2,Decumulation & pensions,Other pensions,Provision,545143
+2022 H2,Decumulation & pensions,Pensions packaged multi products,Complaints opened,10
+2022 H2,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2022 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,92
+2022 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,40711
+2022 H2,Decumulation & pensions,Total decumulation & pensions,Provision,6357153
+2022 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,8814
+2022 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,10208676
+2022 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,13713
+2022 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,16058963
+2022 H2,Home finance,Equity release,Complaints opened,2674
+2022 H2,Home finance,Equity release,Provision,151580
+2022 H2,Home finance,Impaired credit,Complaints opened,592
+2022 H2,Home finance,Impaired credit,Provision,37622
+2022 H2,Home finance,Other regulated home finance products,Complaints opened,78427
+2022 H2,Home finance,Other regulated home finance products,Provision,10432374
+2022 H2,Home finance,Other unregulated home finance products,Complaints opened,17438
+2022 H2,Home finance,Other unregulated home finance products,Provision,2601154
+2022 H2,Home finance,Second and subsequent charge,Complaints opened,2250
+2022 H2,Home finance,Second and subsequent charge,Provision,41022
+2022 H2,Home finance,Total home finance,Provision,275176053
+2022 H2,Insurance & pure protection,Assistance,Complaints opened,29091
+2022 H2,Insurance & pure protection,Assistance,Provision,9159963
+2022 H2,Insurance & pure protection,General insurance packaged multi products,Complaints opened,26764
+2022 H2,Insurance & pure protection,General insurance packaged multi products,Provision,8367869
+2022 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,3192
+2022 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,9895657
+2022 H2,Insurance & pure protection,Medical/health,Complaints opened,79351
+2022 H2,Insurance & pure protection,Medical/health,Provision,7325114
+2022 H2,Insurance & pure protection,Motor & transport,Complaints opened,237803
+2022 H2,Insurance & pure protection,Motor & transport,Provision,71195247
+2022 H2,Insurance & pure protection,Other general insurance,Complaints opened,156153
+2022 H2,Insurance & pure protection,Other general insurance,Provision,75042004
+2022 H2,Insurance & pure protection,Other pure protection,Complaints opened,7685
+2022 H2,Insurance & pure protection,Other pure protection,Provision,870785
+2022 H2,Insurance & pure protection,Payment protection insurance,Complaints opened,3622
+2022 H2,Insurance & pure protection,Payment protection insurance,Provision,16913278
+2022 H2,Insurance & pure protection,Pet,Complaints opened,23468
+2022 H2,Insurance & pure protection,Pet,Provision,4635083
+2022 H2,Insurance & pure protection,Property,Complaints opened,86259
+2022 H2,Insurance & pure protection,Property,Provision,39849375
+2022 H2,Insurance & pure protection,Protection packaged multi products,Complaints opened,827
+2022 H2,Insurance & pure protection,Protection packaged multi products,Provision,1538244
+2022 H2,Insurance & pure protection,Total insurance & pure protection,Provision,93700673
+2022 H2,Insurance & pure protection,Travel,Complaints opened,31989
+2022 H2,Insurance & pure protection,Travel,Provision,49946562
+2022 H2,Insurance & pure protection,Warranty,Complaints opened,42995
+2022 H2,Insurance & pure protection,Warranty,Provision,15228194
+2022 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,24909
+2022 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,27000009
+2022 H2,Investments,Crowdfunding / Peer to Peer,Complaints opened,562
+2022 H2,Investments,Crowdfunding / Peer to Peer,Provision,3783
+2022 H2,Investments,Discretionary management services,Complaints opened,1089
+2022 H2,Investments,Discretionary management services,Provision,231346
+2022 H2,Investments,Endowments,Complaints opened,3603
+2022 H2,Investments,Endowments,Provision,1495574
+2022 H2,Investments,ETPs,Complaints opened,216
+2022 H2,Investments,ETPs,Provision,2226
+2022 H2,Investments,FX/CFD/Spreadbetting,Complaints opened,1175
+2022 H2,Investments,FX/CFD/Spreadbetting,Provision,91805
+2022 H2,Investments,Investment bonds ,Complaints opened,8199
+2022 H2,Investments,Investment bonds ,Provision,2465879
+2022 H2,Investments,Investment packaged multi products,Complaints opened,71
+2022 H2,Investments,Investment packaged multi products,Provision,1141
+2022 H2,Investments,Investment trusts,Complaints opened,725
+2022 H2,Investments,Investment trusts,Provision,110292
+2022 H2,Investments,ISAs (where investment held),Complaints opened,15988
+2022 H2,Investments,ISAs (where investment held),Provision,7833886
+2022 H2,Investments,Non-discretionary management services,Complaints opened,813
+2022 H2,Investments,Non-discretionary management services,Provision,3811497
+2022 H2,Investments,Other investment products/funds,Complaints opened,6989
+2022 H2,Investments,Other investment products/funds,Provision,10000634
+2022 H2,Investments,Platforms,Complaints opened,5055
+2022 H2,Investments,Platforms,Provision,5545740
+2022 H2,Investments,Structured products,Complaints opened,219
+2022 H2,Investments,Structured products,Provision,12722
+2022 H2,Investments,Total investments,Provision,846771587
+2022 H2,Investments,UCITS,Complaints opened,180
+2022 H2,Investments,UCITS,Provision,86896
+2022 H2,Investments,Unit trusts/OEICs,Complaints opened,3792
+2022 H2,Investments,Unit trusts/OEICs,Provision,2542084
+2023 H1,Banking and credit cards,Credit cards,Complaints opened,201925
+2023 H1,Banking and credit cards,Credit cards,Provision,55919973
+2023 H1,Banking and credit cards,Current accounts,Complaints opened,509924
+2023 H1,Banking and credit cards,Current accounts,Provision,119285586
+2023 H1,Banking and credit cards,Other banking - Please provide details below,Complaints opened,28159
+2023 H1,Banking and credit cards,Other banking - Please provide details below,Provision,11391536
+2023 H1,Banking and credit cards,Overdrafts,Complaints opened,9387
+2023 H1,Banking and credit cards,Overdrafts,Provision,48159038
+2023 H1,Banking and credit cards,Packaged accounts,Complaints opened,12788
+2023 H1,Banking and credit cards,Packaged accounts,Provision,7324338
+2023 H1,Banking and credit cards,Savings (including ISAs),Complaints opened,85315
+2023 H1,Banking and credit cards,Savings (including ISAs),Provision,123115002
+2023 H1,Banking and credit cards,Total banking and credit cards,Provision,7087579
+2023 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,8711
+2023 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6334383
+2023 H1,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,0
+2023 H1,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2023 H1,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,6326
+2023 H1,Decumulation & pensions,Drawdown and UFPLS,Provision,972699
+2023 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,47536
+2023 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,13271548
+2023 H1,Decumulation & pensions,Other decumulation,Complaints opened,77
+2023 H1,Decumulation & pensions,Other decumulation,Provision,0
+2023 H1,Decumulation & pensions,Other pensions,Complaints opened,367
+2023 H1,Decumulation & pensions,Other pensions,Provision,541848
+2023 H1,Decumulation & pensions,Pensions packaged multi products,Complaints opened,19
+2023 H1,Decumulation & pensions,Pensions packaged multi products,Provision,6
+2023 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,94
+2023 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,40077
+2023 H1,Decumulation & pensions,Total decumulation & pensions,Provision,3721834
+2023 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,8494
+2023 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,10471270
+2023 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,16477
+2023 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,16431097
+2023 H1,Home finance,Equity release,Complaints opened,2085
+2023 H1,Home finance,Equity release,Provision,147648
+2023 H1,Home finance,Impaired credit,Complaints opened,581
+2023 H1,Home finance,Impaired credit,Provision,35361
+2023 H1,Home finance,Other regulated home finance products,Complaints opened,70136
+2023 H1,Home finance,Other regulated home finance products,Provision,9353781
+2023 H1,Home finance,Other unregulated home finance products,Complaints opened,16718
+2023 H1,Home finance,Other unregulated home finance products,Provision,2506611
+2023 H1,Home finance,Second and subsequent charge,Complaints opened,1991
+2023 H1,Home finance,Second and subsequent charge,Provision,36461
+2023 H1,Home finance,Total home finance,Provision,76754723
+2023 H1,Insurance & pure protection,Assistance,Complaints opened,27518
+2023 H1,Insurance & pure protection,Assistance,Provision,7708937
+2023 H1,Insurance & pure protection,General insurance packaged multi products,Complaints opened,19727
+2023 H1,Insurance & pure protection,General insurance packaged multi products,Provision,11374474
+2023 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,3724
+2023 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,8973749
+2023 H1,Insurance & pure protection,Medical/health,Complaints opened,85316
+2023 H1,Insurance & pure protection,Medical/health,Provision,9312040
+2023 H1,Insurance & pure protection,Motor & transport,Complaints opened,277080
+2023 H1,Insurance & pure protection,Motor & transport,Provision,71456939
+2023 H1,Insurance & pure protection,Other general insurance,Complaints opened,150771
+2023 H1,Insurance & pure protection,Other general insurance,Provision,68025943
+2023 H1,Insurance & pure protection,Other pure protection,Complaints opened,602
+2023 H1,Insurance & pure protection,Other pure protection,Provision,880852
+2023 H1,Insurance & pure protection,Payment protection insurance,Complaints opened,3287
+2023 H1,Insurance & pure protection,Payment protection insurance,Provision,16850740
+2023 H1,Insurance & pure protection,Pet,Complaints opened,27847
+2023 H1,Insurance & pure protection,Pet,Provision,4712843
+2023 H1,Insurance & pure protection,Property,Complaints opened,92677
+2023 H1,Insurance & pure protection,Property,Provision,39365148
+2023 H1,Insurance & pure protection,Protection packaged multi products,Complaints opened,887
+2023 H1,Insurance & pure protection,Protection packaged multi products,Provision,1681559
+2023 H1,Insurance & pure protection,Total insurance & pure protection,Provision,101939810
+2023 H1,Insurance & pure protection,Travel,Complaints opened,32589
+2023 H1,Insurance & pure protection,Travel,Provision,35220085
+2023 H1,Insurance & pure protection,Warranty,Complaints opened,49885
+2023 H1,Insurance & pure protection,Warranty,Provision,19662539
+2023 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,27094
+2023 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,28097831
+2023 H1,Investments,Crowdfunding / Peer to Peer,Complaints opened,457
+2023 H1,Investments,Crowdfunding / Peer to Peer,Provision,5327
+2023 H1,Investments,Discretionary management services,Complaints opened,1175
+2023 H1,Investments,Discretionary management services,Provision,223301
+2023 H1,Investments,Endowments,Complaints opened,3484
+2023 H1,Investments,Endowments,Provision,2406584
+2023 H1,Investments,ETPs,Complaints opened,205
+2023 H1,Investments,ETPs,Provision,1398
+2023 H1,Investments,FX/CFD/Spreadbetting,Complaints opened,1190
+2023 H1,Investments,FX/CFD/Spreadbetting,Provision,58931
+2023 H1,Investments,Investment bonds ,Complaints opened,11053
+2023 H1,Investments,Investment bonds ,Provision,2404520
+2023 H1,Investments,Investment packaged multi products,Complaints opened,80
+2023 H1,Investments,Investment packaged multi products,Provision,12118
+2023 H1,Investments,Investment trusts,Complaints opened,815
+2023 H1,Investments,Investment trusts,Provision,105575
+2023 H1,Investments,ISAs (where investment held),Complaints opened,19868
+2023 H1,Investments,ISAs (where investment held),Provision,8033244
+2023 H1,Investments,Non-discretionary management services,Complaints opened,974
+2023 H1,Investments,Non-discretionary management services,Provision,5756910
+2023 H1,Investments,Other investment products/funds,Complaints opened,7791
+2023 H1,Investments,Other investment products/funds,Provision,10273383
+2023 H1,Investments,Platforms,Complaints opened,7524
+2023 H1,Investments,Platforms,Provision,2923341
+2023 H1,Investments,Structured products,Complaints opened,163
+2023 H1,Investments,Structured products,Provision,10497
+2023 H1,Investments,Total investments,Provision,312153131
+2023 H1,Investments,UCITS,Complaints opened,219
+2023 H1,Investments,UCITS,Provision,89986
+2023 H1,Investments,Unit trusts/OEICs,Complaints opened,4419
+2023 H1,Investments,Unit trusts/OEICs,Provision,2587302
+2023 H2,Banking and credit cards,Credit cards,Complaints opened,232757
+2023 H2,Banking and credit cards,Credit cards,Provision,59445392
+2023 H2,Banking and credit cards,Current accounts,Complaints opened,515502
+2023 H2,Banking and credit cards,Current accounts,Provision,122305364
+2023 H2,Banking and credit cards,Other banking - Please provide details below,Complaints opened,73419
+2023 H2,Banking and credit cards,Other banking - Please provide details below,Provision,39316333
+2023 H2,Banking and credit cards,Overdrafts,Complaints opened,15369
+2023 H2,Banking and credit cards,Overdrafts,Provision,48573781
+2023 H2,Banking and credit cards,Packaged accounts,Complaints opened,13461
+2023 H2,Banking and credit cards,Packaged accounts,Provision,7404469
+2023 H2,Banking and credit cards,Savings (including ISAs),Complaints opened,91177
+2023 H2,Banking and credit cards,Savings (including ISAs),Provision,125983131
+2023 H2,Banking and credit cards,Total banking and credit cards,Provision,7417717
+2023 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,8523
+2023 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6722568
+2023 H2,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,2
+2023 H2,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2023 H2,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,7008
+2023 H2,Decumulation & pensions,Drawdown and UFPLS,Provision,1024823
+2023 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,45997
+2023 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,15507500
+2023 H2,Decumulation & pensions,Other decumulation,Complaints opened,51
+2023 H2,Decumulation & pensions,Other decumulation,Provision,0
+2023 H2,Decumulation & pensions,Other pensions,Complaints opened,339
+2023 H2,Decumulation & pensions,Other pensions,Provision,520964
+2023 H2,Decumulation & pensions,Pensions packaged multi products,Complaints opened,26
+2023 H2,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2023 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,91
+2023 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,29827
+2023 H2,Decumulation & pensions,Total decumulation & pensions,Provision,4466350
+2023 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,7122
+2023 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,11329829
+2023 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,17749
+2023 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,17446730
+2023 H2,Home finance,Equity release,Complaints opened,1929
+2023 H2,Home finance,Equity release,Provision,142660
+2023 H2,Home finance,Impaired credit,Complaints opened,714
+2023 H2,Home finance,Impaired credit,Provision,39252
+2023 H2,Home finance,Other regulated home finance products,Complaints opened,70393
+2023 H2,Home finance,Other regulated home finance products,Provision,9287575
+2023 H2,Home finance,Other unregulated home finance products,Complaints opened,19147
+2023 H2,Home finance,Other unregulated home finance products,Provision,2212754
+2023 H2,Home finance,Second and subsequent charge,Complaints opened,2698
+2023 H2,Home finance,Second and subsequent charge,Provision,62621
+2023 H2,Home finance,Total home finance,Provision,5277682
+2023 H2,Insurance & pure protection,Assistance,Complaints opened,26632
+2023 H2,Insurance & pure protection,Assistance,Provision,9137981
+2023 H2,Insurance & pure protection,General insurance packaged multi products,Complaints opened,19337
+2023 H2,Insurance & pure protection,General insurance packaged multi products,Provision,11498178
+2023 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,3733
+2023 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,9821003
+2023 H2,Insurance & pure protection,Medical/health,Complaints opened,80293
+2023 H2,Insurance & pure protection,Medical/health,Provision,9326721
+2023 H2,Insurance & pure protection,Motor & transport,Complaints opened,281253
+2023 H2,Insurance & pure protection,Motor & transport,Provision,69412849
+2023 H2,Insurance & pure protection,Other general insurance,Complaints opened,118981
+2023 H2,Insurance & pure protection,Other general insurance,Provision,78010523
+2023 H2,Insurance & pure protection,Other pure protection,Complaints opened,381
+2023 H2,Insurance & pure protection,Other pure protection,Provision,894411
+2023 H2,Insurance & pure protection,Payment protection insurance,Complaints opened,2012
+2023 H2,Insurance & pure protection,Payment protection insurance,Provision,16743917
+2023 H2,Insurance & pure protection,Pet,Complaints opened,26984
+2023 H2,Insurance & pure protection,Pet,Provision,5239967
+2023 H2,Insurance & pure protection,Property,Complaints opened,91978
+2023 H2,Insurance & pure protection,Property,Provision,41340919
+2023 H2,Insurance & pure protection,Protection packaged multi products,Complaints opened,509
+2023 H2,Insurance & pure protection,Protection packaged multi products,Provision,470293
+2023 H2,Insurance & pure protection,Total insurance & pure protection,Provision,83777203
+2023 H2,Insurance & pure protection,Travel,Complaints opened,34669
+2023 H2,Insurance & pure protection,Travel,Provision,39106044
+2023 H2,Insurance & pure protection,Warranty,Complaints opened,43760
+2023 H2,Insurance & pure protection,Warranty,Provision,17816052
+2023 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,23673
+2023 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,28810843
+2023 H2,Investments,Crowdfunding / Peer to Peer,Complaints opened,301
+2023 H2,Investments,Crowdfunding / Peer to Peer,Provision,18857
+2023 H2,Investments,Discretionary management services,Complaints opened,2161
+2023 H2,Investments,Discretionary management services,Provision,222748
+2023 H2,Investments,Endowments,Complaints opened,3164
+2023 H2,Investments,Endowments,Provision,2225605
+2023 H2,Investments,ETPs,Complaints opened,327
+2023 H2,Investments,ETPs,Provision,1743
+2023 H2,Investments,FX/CFD/Spreadbetting,Complaints opened,1302
+2023 H2,Investments,FX/CFD/Spreadbetting,Provision,57110
+2023 H2,Investments,Investment bonds ,Complaints opened,11292
+2023 H2,Investments,Investment bonds ,Provision,2300668
+2023 H2,Investments,Investment packaged multi products,Complaints opened,75
+2023 H2,Investments,Investment packaged multi products,Provision,12384
+2023 H2,Investments,Investment trusts,Complaints opened,1344
+2023 H2,Investments,Investment trusts,Provision,104216
+2023 H2,Investments,ISAs (where investment held),Complaints opened,21170
+2023 H2,Investments,ISAs (where investment held),Provision,9480725
+2023 H2,Investments,Non-discretionary management services,Complaints opened,727
+2023 H2,Investments,Non-discretionary management services,Provision,2251763
+2023 H2,Investments,Other investment products/funds,Complaints opened,7095
+2023 H2,Investments,Other investment products/funds,Provision,10390256
+2023 H2,Investments,Platforms,Complaints opened,7845
+2023 H2,Investments,Platforms,Provision,4876363
+2023 H2,Investments,Structured products,Complaints opened,107
+2023 H2,Investments,Structured products,Provision,63299
+2023 H2,Investments,Total investments,Provision,196006396
+2023 H2,Investments,UCITS,Complaints opened,188
+2023 H2,Investments,UCITS,Provision,89820
+2023 H2,Investments,Unit trusts/OEICs,Complaints opened,4437
+2023 H2,Investments,Unit trusts/OEICs,Provision,2478805
+2024 H1,Banking and credit cards,Credit cards,Complaints opened,222529
+2024 H1,Banking and credit cards,Credit cards,Provision,57692273
+2024 H1,Banking and credit cards,Current accounts,Complaints opened,492289
+2024 H1,Banking and credit cards,Current accounts,Provision,125016171
+2024 H1,Banking and credit cards,Other banking - Please provide details below,Complaints opened,22151
+2024 H1,Banking and credit cards,Other banking - Please provide details below,Provision,5621512
+2024 H1,Banking and credit cards,Overdrafts,Complaints opened,15586
+2024 H1,Banking and credit cards,Overdrafts,Provision,49081096
+2024 H1,Banking and credit cards,Packaged accounts,Complaints opened,15080
+2024 H1,Banking and credit cards,Packaged accounts,Provision,7475760
+2024 H1,Banking and credit cards,Savings (including ISAs),Complaints opened,83392
+2024 H1,Banking and credit cards,Savings (including ISAs),Provision,128946679
+2024 H1,Banking and credit cards,Total banking and credit cards,Provision,8898961
+2024 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,9009
+2024 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6181695
+2024 H1,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,0
+2024 H1,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2024 H1,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,9037
+2024 H1,Decumulation & pensions,Drawdown and UFPLS,Provision,1126898
+2024 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,50831
+2024 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,12610901
+2024 H1,Decumulation & pensions,Other decumulation,Complaints opened,29
+2024 H1,Decumulation & pensions,Other decumulation,Provision,0
+2024 H1,Decumulation & pensions,Other pensions,Complaints opened,286
+2024 H1,Decumulation & pensions,Other pensions,Provision,520587
+2024 H1,Decumulation & pensions,Pensions packaged multi products,Complaints opened,22
+2024 H1,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2024 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,75
+2024 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,15467
+2024 H1,Decumulation & pensions,Total decumulation & pensions,Provision,3880841
+2024 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,7414
+2024 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,10432737
+2024 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,16341
+2024 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,17040932
+2024 H1,Home finance,Equity release,Complaints opened,2201
+2024 H1,Home finance,Equity release,Provision,140794
+2024 H1,Home finance,Impaired credit,Complaints opened,633
+2024 H1,Home finance,Impaired credit,Provision,33059
+2024 H1,Home finance,Other regulated home finance products,Complaints opened,70619
+2024 H1,Home finance,Other regulated home finance products,Provision,9160607
+2024 H1,Home finance,Other unregulated home finance products,Complaints opened,16759
+2024 H1,Home finance,Other unregulated home finance products,Provision,2113139
+2024 H1,Home finance,Second and subsequent charge,Complaints opened,3022
+2024 H1,Home finance,Second and subsequent charge,Provision,62002
+2024 H1,Home finance,Total home finance,Provision,10223469
+2024 H1,Insurance & pure protection,Assistance,Complaints opened,18125
+2024 H1,Insurance & pure protection,Assistance,Provision,8831900
+2024 H1,Insurance & pure protection,General insurance packaged multi products,Complaints opened,14866
+2024 H1,Insurance & pure protection,General insurance packaged multi products,Provision,12217412
+2024 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,4108
+2024 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,2659685
+2024 H1,Insurance & pure protection,Medical/health,Complaints opened,95886
+2024 H1,Insurance & pure protection,Medical/health,Provision,9403118
+2024 H1,Insurance & pure protection,Motor & transport,Complaints opened,276795
+2024 H1,Insurance & pure protection,Motor & transport,Provision,70248202
+2024 H1,Insurance & pure protection,Other general insurance,Complaints opened,118599
+2024 H1,Insurance & pure protection,Other general insurance,Provision,66220255
+2024 H1,Insurance & pure protection,Other pure protection,Complaints opened,466
+2024 H1,Insurance & pure protection,Other pure protection,Provision,4453954
+2024 H1,Insurance & pure protection,Payment protection insurance,Complaints opened,882
+2024 H1,Insurance & pure protection,Payment protection insurance,Provision,9424899
+2024 H1,Insurance & pure protection,Pet,Complaints opened,28019
+2024 H1,Insurance & pure protection,Pet,Provision,5104123
+2024 H1,Insurance & pure protection,Property,Complaints opened,100431
+2024 H1,Insurance & pure protection,Property,Provision,40937514
+2024 H1,Insurance & pure protection,Protection packaged multi products,Complaints opened,554
+2024 H1,Insurance & pure protection,Protection packaged multi products,Provision,458540
+2024 H1,Insurance & pure protection,Total insurance & pure protection,Provision,90998401
+2024 H1,Insurance & pure protection,Travel,Complaints opened,27551
+2024 H1,Insurance & pure protection,Travel,Provision,31493433
+2024 H1,Insurance & pure protection,Warranty,Complaints opened,53576
+2024 H1,Insurance & pure protection,Warranty,Provision,18786953
+2024 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,24674
+2024 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,27907255
+2024 H1,Investments,Crowdfunding / Peer to Peer,Complaints opened,292
+2024 H1,Investments,Crowdfunding / Peer to Peer,Provision,5590
+2024 H1,Investments,Discretionary management services,Complaints opened,1404
+2024 H1,Investments,Discretionary management services,Provision,495192
+2024 H1,Investments,Endowments,Complaints opened,3046
+2024 H1,Investments,Endowments,Provision,2046645
+2024 H1,Investments,ETPs,Complaints opened,303
+2024 H1,Investments,ETPs,Provision,2635
+2024 H1,Investments,FX/CFD/Spreadbetting,Complaints opened,1153
+2024 H1,Investments,FX/CFD/Spreadbetting,Provision,346143
+2024 H1,Investments,Investment bonds ,Complaints opened,10965
+2024 H1,Investments,Investment bonds ,Provision,2102657
+2024 H1,Investments,Investment packaged multi products,Complaints opened,73
+2024 H1,Investments,Investment packaged multi products,Provision,12512
+2024 H1,Investments,Investment trusts,Complaints opened,508
+2024 H1,Investments,Investment trusts,Provision,973096
+2024 H1,Investments,ISAs (where investment held),Complaints opened,22737
+2024 H1,Investments,ISAs (where investment held),Provision,10404551
+2024 H1,Investments,Non-discretionary management services,Complaints opened,903
+2024 H1,Investments,Non-discretionary management services,Provision,2862005
+2024 H1,Investments,Other investment products/funds,Complaints opened,7528
+2024 H1,Investments,Other investment products/funds,Provision,34336752
+2024 H1,Investments,Platforms,Complaints opened,9103
+2024 H1,Investments,Platforms,Provision,29474639
+2024 H1,Investments,Structured products,Complaints opened,131
+2024 H1,Investments,Structured products,Provision,6492
+2024 H1,Investments,Total investments,Provision,2018916520
+2024 H1,Investments,UCITS,Complaints opened,187
+2024 H1,Investments,UCITS,Provision,8622
+2024 H1,Investments,Unit trusts/OEICs,Complaints opened,4496
+2024 H1,Investments,Unit trusts/OEICs,Provision,1802682
+2024 H2,Banking and credit cards,Credit cards,Complaints opened,217160
+2024 H2,Banking and credit cards,Credit cards,Provision,57749991
+2024 H2,Banking and credit cards,Current accounts,Complaints opened,491172
+2024 H2,Banking and credit cards,Current accounts,Provision,127428893
+2024 H2,Banking and credit cards,Other banking - Please provide details below,Complaints opened,21404
+2024 H2,Banking and credit cards,Other banking - Please provide details below,Provision,5702709
+2024 H2,Banking and credit cards,Overdrafts,Complaints opened,13290
+2024 H2,Banking and credit cards,Overdrafts,Provision,49847598
+2024 H2,Banking and credit cards,Packaged accounts,Complaints opened,15959
+2024 H2,Banking and credit cards,Packaged accounts,Provision,7607406
+2024 H2,Banking and credit cards,Savings (including ISAs),Complaints opened,80592
+2024 H2,Banking and credit cards,Savings (including ISAs),Provision,131113260
+2024 H2,Banking and credit cards,Total banking and credit cards,Provision,12234041
+2024 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,7500
+2024 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6388616
+2024 H2,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,501
+2024 H2,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2024 H2,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,8232
+2024 H2,Decumulation & pensions,Drawdown and UFPLS,Provision,1144833
+2024 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,49383
+2024 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,13110242
+2024 H2,Decumulation & pensions,Other decumulation,Complaints opened,33
+2024 H2,Decumulation & pensions,Other decumulation,Provision,0
+2024 H2,Decumulation & pensions,Other pensions,Complaints opened,537
+2024 H2,Decumulation & pensions,Other pensions,Provision,501190
+2024 H2,Decumulation & pensions,Pensions packaged multi products,Complaints opened,41
+2024 H2,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2024 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,67
+2024 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,15102
+2024 H2,Decumulation & pensions,Total decumulation & pensions,Provision,5098533
+2024 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,6466
+2024 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,9552489
+2024 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,16413
+2024 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,16523416
+2024 H2,Home finance,Equity release,Complaints opened,2328
+2024 H2,Home finance,Equity release,Provision,136066
+2024 H2,Home finance,Impaired credit,Complaints opened,561
+2024 H2,Home finance,Impaired credit,Provision,29443
+2024 H2,Home finance,Other regulated home finance products,Complaints opened,63670
+2024 H2,Home finance,Other regulated home finance products,Provision,9112144
+2024 H2,Home finance,Other unregulated home finance products,Complaints opened,14738
+2024 H2,Home finance,Other unregulated home finance products,Provision,2067964
+2024 H2,Home finance,Second and subsequent charge,Complaints opened,2639
+2024 H2,Home finance,Second and subsequent charge,Provision,60350
+2024 H2,Home finance,Total home finance,Provision,21789713
+2024 H2,Insurance & pure protection,Assistance,Complaints opened,20370
+2024 H2,Insurance & pure protection,Assistance,Provision,7473420
+2024 H2,Insurance & pure protection,General insurance packaged multi products,Complaints opened,12203
+2024 H2,Insurance & pure protection,General insurance packaged multi products,Provision,7453739
+2024 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,4528
+2024 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,2190813
+2024 H2,Insurance & pure protection,Medical/health,Complaints opened,77075
+2024 H2,Insurance & pure protection,Medical/health,Provision,10182308
+2024 H2,Insurance & pure protection,Motor & transport,Complaints opened,254788
+2024 H2,Insurance & pure protection,Motor & transport,Provision,67154323
+2024 H2,Insurance & pure protection,Other general insurance,Complaints opened,123916
+2024 H2,Insurance & pure protection,Other general insurance,Provision,74339283
+2024 H2,Insurance & pure protection,Other pure protection,Complaints opened,440
+2024 H2,Insurance & pure protection,Other pure protection,Provision,977721
+2024 H2,Insurance & pure protection,Payment protection insurance,Complaints opened,558
+2024 H2,Insurance & pure protection,Payment protection insurance,Provision,9374368
+2024 H2,Insurance & pure protection,Pet,Complaints opened,27748
+2024 H2,Insurance & pure protection,Pet,Provision,4834709
+2024 H2,Insurance & pure protection,Property,Complaints opened,91892
+2024 H2,Insurance & pure protection,Property,Provision,37441017
+2024 H2,Insurance & pure protection,Protection packaged multi products,Complaints opened,788
+2024 H2,Insurance & pure protection,Protection packaged multi products,Provision,450132
+2024 H2,Insurance & pure protection,Total insurance & pure protection,Provision,100082407
+2024 H2,Insurance & pure protection,Travel,Complaints opened,29280
+2024 H2,Insurance & pure protection,Travel,Provision,25892807
+2024 H2,Insurance & pure protection,Warranty,Complaints opened,51530
+2024 H2,Insurance & pure protection,Warranty,Provision,20282823
+2024 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,23622
+2024 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,25027920
+2024 H2,Investments,Crowdfunding / Peer to Peer,Complaints opened,306
+2024 H2,Investments,Crowdfunding / Peer to Peer,Provision,8669
+2024 H2,Investments,Discretionary management services,Complaints opened,1269
+2024 H2,Investments,Discretionary management services,Provision,405180
+2024 H2,Investments,Endowments,Complaints opened,2562
+2024 H2,Investments,Endowments,Provision,1879831
+2024 H2,Investments,ETPs,Complaints opened,389
+2024 H2,Investments,ETPs,Provision,4251
+2024 H2,Investments,FX/CFD/Spreadbetting,Complaints opened,1052
+2024 H2,Investments,FX/CFD/Spreadbetting,Provision,696648
+2024 H2,Investments,Investment bonds ,Complaints opened,10056
+2024 H2,Investments,Investment bonds ,Provision,2274405
+2024 H2,Investments,Investment packaged multi products,Complaints opened,115
+2024 H2,Investments,Investment packaged multi products,Provision,19217
+2024 H2,Investments,Investment trusts,Complaints opened,415
+2024 H2,Investments,Investment trusts,Provision,38
+2024 H2,Investments,ISAs (where investment held),Complaints opened,18483
+2024 H2,Investments,ISAs (where investment held),Provision,9657963
+2024 H2,Investments,Non-discretionary management services,Complaints opened,854
+2024 H2,Investments,Non-discretionary management services,Provision,2554077
+2024 H2,Investments,Other investment products/funds,Complaints opened,6620
+2024 H2,Investments,Other investment products/funds,Provision,29428668
+2024 H2,Investments,Platforms,Complaints opened,6405
+2024 H2,Investments,Platforms,Provision,27379710
+2024 H2,Investments,Structured products,Complaints opened,152
+2024 H2,Investments,Structured products,Provision,7017
+2024 H2,Investments,Total investments,Provision,160115181
+2024 H2,Investments,UCITS,Complaints opened,209
+2024 H2,Investments,UCITS,Provision,105398
+2024 H2,Investments,Unit trusts/OEICs,Complaints opened,4086
+2024 H2,Investments,Unit trusts/OEICs,Provision,1295734
+2025 H1,Banking and credit cards,Credit cards,Complaints opened,211903
+2025 H1,Banking and credit cards,Credit cards,Provision,59442664
+2025 H1,Banking and credit cards,Current accounts,Complaints opened,541493
+2025 H1,Banking and credit cards,Current accounts,Provision,130931874
+2025 H1,Banking and credit cards,Other banking - Please provide details below,Complaints opened,24463
+2025 H1,Banking and credit cards,Other banking - Please provide details below,Provision,4680945
+2025 H1,Banking and credit cards,Overdrafts,Complaints opened,16188
+2025 H1,Banking and credit cards,Overdrafts,Provision,49038126
+2025 H1,Banking and credit cards,Packaged accounts,Complaints opened,15944
+2025 H1,Banking and credit cards,Packaged accounts,Provision,7838830
+2025 H1,Banking and credit cards,Savings (including ISAs),Complaints opened,89919
+2025 H1,Banking and credit cards,Savings (including ISAs),Provision,136973865
+2025 H1,Banking and credit cards,Total banking and credit cards,Provision,8111103
+2025 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,7968
+2025 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6707167
+2025 H1,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,434
+2025 H1,Decumulation & pensions,Decumulation packaged multi products,Provision,0
+2025 H1,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,6759
+2025 H1,Decumulation & pensions,Drawdown and UFPLS,Provision,986265
+2025 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,52414
+2025 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,13240691
+2025 H1,Decumulation & pensions,Other decumulation,Complaints opened,61
+2025 H1,Decumulation & pensions,Other decumulation,Provision,0
+2025 H1,Decumulation & pensions,Other pensions,Complaints opened,481
+2025 H1,Decumulation & pensions,Other pensions,Provision,500775
+2025 H1,Decumulation & pensions,Pensions packaged multi products,Complaints opened,41
+2025 H1,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2025 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,67
+2025 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,204068
+2025 H1,Decumulation & pensions,Total decumulation & pensions,Provision,6559758
+2025 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,8977
+2025 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,9683479
+2025 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,16873
+2025 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,14059224
+2025 H1,Home finance,Equity release,Complaints opened,2111
+2025 H1,Home finance,Equity release,Provision,132536
+2025 H1,Home finance,Impaired credit,Complaints opened,564
+2025 H1,Home finance,Impaired credit,Provision,36604
+2025 H1,Home finance,Other regulated home finance products,Complaints opened,60395
+2025 H1,Home finance,Other regulated home finance products,Provision,9184230
+2025 H1,Home finance,Other unregulated home finance products,Complaints opened,12128
+2025 H1,Home finance,Other unregulated home finance products,Provision,2185697
+2025 H1,Home finance,Second and subsequent charge,Complaints opened,3418
+2025 H1,Home finance,Second and subsequent charge,Provision,57534
+2025 H1,Home finance,Total home finance,Provision,2275094
+2025 H1,Insurance & pure protection,Assistance,Complaints opened,18236
+2025 H1,Insurance & pure protection,Assistance,Provision,8667292
+2025 H1,Insurance & pure protection,General insurance packaged multi products,Complaints opened,13003
+2025 H1,Insurance & pure protection,General insurance packaged multi products,Provision,8490921
+2025 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,4670
+2025 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,2896097
+2025 H1,Insurance & pure protection,Medical/health,Complaints opened,76182
+2025 H1,Insurance & pure protection,Medical/health,Provision,10390913
+2025 H1,Insurance & pure protection,Motor & transport,Complaints opened,234015
+2025 H1,Insurance & pure protection,Motor & transport,Provision,65601176
+2025 H1,Insurance & pure protection,Other general insurance,Complaints opened,113789
+2025 H1,Insurance & pure protection,Other general insurance,Provision,75078149
+2025 H1,Insurance & pure protection,Other pure protection,Complaints opened,544
+2025 H1,Insurance & pure protection,Other pure protection,Provision,6035335
+2025 H1,Insurance & pure protection,Payment protection insurance,Complaints opened,603
+2025 H1,Insurance & pure protection,Payment protection insurance,Provision,9219406
+2025 H1,Insurance & pure protection,Pet,Complaints opened,23764
+2025 H1,Insurance & pure protection,Pet,Provision,4721947
+2025 H1,Insurance & pure protection,Property,Complaints opened,94186
+2025 H1,Insurance & pure protection,Property,Provision,43981979
+2025 H1,Insurance & pure protection,Protection packaged multi products,Complaints opened,797
+2025 H1,Insurance & pure protection,Protection packaged multi products,Provision,467635
+2025 H1,Insurance & pure protection,Total insurance & pure protection,Provision,105949917
+2025 H1,Insurance & pure protection,Travel,Complaints opened,27813
+2025 H1,Insurance & pure protection,Travel,Provision,28829004
+2025 H1,Insurance & pure protection,Warranty,Complaints opened,65083
+2025 H1,Insurance & pure protection,Warranty,Provision,21137778
+2025 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,24950
+2025 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,28264531
+2025 H1,Investments,Crowdfunding / Peer to Peer,Complaints opened,319
+2025 H1,Investments,Crowdfunding / Peer to Peer,Provision,0
+2025 H1,Investments,Discretionary management services,Complaints opened,1187
+2025 H1,Investments,Discretionary management services,Provision,440171
+2025 H1,Investments,Endowments,Complaints opened,2318
+2025 H1,Investments,Endowments,Provision,1688691
+2025 H1,Investments,ETPs,Complaints opened,464
+2025 H1,Investments,ETPs,Provision,0
+2025 H1,Investments,FX/CFD/Spreadbetting,Complaints opened,1184
+2025 H1,Investments,FX/CFD/Spreadbetting,Provision,765807
+2025 H1,Investments,Investment bonds ,Complaints opened,9513
+2025 H1,Investments,Investment bonds ,Provision,2254416
+2025 H1,Investments,Investment packaged multi products,Complaints opened,98
+2025 H1,Investments,Investment packaged multi products,Provision,130692
+2025 H1,Investments,Investment trusts,Complaints opened,444
+2025 H1,Investments,Investment trusts,Provision,63
+2025 H1,Investments,ISAs (where investment held),Complaints opened,22023
+2025 H1,Investments,ISAs (where investment held),Provision,11589499
+2025 H1,Investments,Non-discretionary management services,Complaints opened,938
+2025 H1,Investments,Non-discretionary management services,Provision,2688550
+2025 H1,Investments,Other investment products/funds,Complaints opened,7914
+2025 H1,Investments,Other investment products/funds,Provision,33080819
+2025 H1,Investments,Platforms,Complaints opened,7980
+2025 H1,Investments,Platforms,Provision,29050889
+2025 H1,Investments,Structured products,Complaints opened,94
+2025 H1,Investments,Structured products,Provision,8157
+2025 H1,Investments,Total investments,Provision,175430204
+2025 H1,Investments,UCITS,Complaints opened,246
+2025 H1,Investments,UCITS,Provision,110954
+2025 H1,Investments,Unit trusts/OEICs,Complaints opened,3588
+2025 H1,Investments,Unit trusts/OEICs,Provision,1267954
+2025 H2,Banking and credit cards,Credit cards,Complaints opened,218456
+2025 H2,Banking and credit cards,Credit cards,Provision,61029672
+2025 H2,Banking and credit cards,Current accounts,Complaints opened,492149
+2025 H2,Banking and credit cards,Current accounts,Provision,132229980
+2025 H2,Banking and credit cards,Other banking - Please provide details below,Complaints opened,23166
+2025 H2,Banking and credit cards,Other banking - Please provide details below,Provision,6588866
+2025 H2,Banking and credit cards,Overdrafts,Complaints opened,26456
+2025 H2,Banking and credit cards,Overdrafts,Provision,50590527
+2025 H2,Banking and credit cards,Packaged accounts,Complaints opened,15065
+2025 H2,Banking and credit cards,Packaged accounts,Provision,8199468
+2025 H2,Banking and credit cards,Savings (including ISAs),Complaints opened,82466
+2025 H2,Banking and credit cards,Savings (including ISAs),Provision,143020598
+2025 H2,Banking and credit cards,Total banking and credit cards,Provision,16894767
+2025 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,7684
+2025 H2,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6650816
+2025 H2,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,520
+2025 H2,Decumulation & pensions,Decumulation packaged multi products,Provision,408116
+2025 H2,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,7506
+2025 H2,Decumulation & pensions,Drawdown and UFPLS,Provision,1259483
+2025 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,49096
+2025 H2,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,12966679
+2025 H2,Decumulation & pensions,Other decumulation,Complaints opened,49
+2025 H2,Decumulation & pensions,Other decumulation,Provision,332
+2025 H2,Decumulation & pensions,Other pensions,Complaints opened,196
+2025 H2,Decumulation & pensions,Other pensions,Provision,483857
+2025 H2,Decumulation & pensions,Pensions packaged multi products,Complaints opened,30
+2025 H2,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2025 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,48
+2025 H2,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,15268
+2025 H2,Decumulation & pensions,Total decumulation & pensions,Provision,7046587
+2025 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,5202
+2025 H2,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,9869184
+2025 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,17721
+2025 H2,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,14163760
+2025 H2,Home finance,Equity release,Complaints opened,1969
+2025 H2,Home finance,Equity release,Provision,126933
+2025 H2,Home finance,Impaired credit,Complaints opened,409
+2025 H2,Home finance,Impaired credit,Provision,29719
+2025 H2,Home finance,Other regulated home finance products,Complaints opened,58073
+2025 H2,Home finance,Other regulated home finance products,Provision,9119088
+2025 H2,Home finance,Other unregulated home finance products,Complaints opened,12110
+2025 H2,Home finance,Other unregulated home finance products,Provision,1925706
+2025 H2,Home finance,Second and subsequent charge,Complaints opened,3097
+2025 H2,Home finance,Second and subsequent charge,Provision,59574
+2025 H2,Home finance,Total home finance,Provision,4119021
+2025 H2,Insurance & pure protection,Assistance,Complaints opened,18313
+2025 H2,Insurance & pure protection,Assistance,Provision,15361858
+2025 H2,Insurance & pure protection,General insurance packaged multi products,Complaints opened,10707
+2025 H2,Insurance & pure protection,General insurance packaged multi products,Provision,6883277
+2025 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,5122
+2025 H2,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,2986596
+2025 H2,Insurance & pure protection,Medical/health,Complaints opened,70619
+2025 H2,Insurance & pure protection,Medical/health,Provision,10376540
+2025 H2,Insurance & pure protection,Motor & transport,Complaints opened,215708
+2025 H2,Insurance & pure protection,Motor & transport,Provision,68790410
+2025 H2,Insurance & pure protection,Other general insurance,Complaints opened,111907
+2025 H2,Insurance & pure protection,Other general insurance,Provision,83871820
+2025 H2,Insurance & pure protection,Other pure protection,Complaints opened,798
+2025 H2,Insurance & pure protection,Other pure protection,Provision,1472960
+2025 H2,Insurance & pure protection,Payment protection insurance,Complaints opened,551
+2025 H2,Insurance & pure protection,Payment protection insurance,Provision,9138280
+2025 H2,Insurance & pure protection,Pet,Complaints opened,22902
+2025 H2,Insurance & pure protection,Pet,Provision,5141074
+2025 H2,Insurance & pure protection,Property,Complaints opened,88861
+2025 H2,Insurance & pure protection,Property,Provision,41444579
+2025 H2,Insurance & pure protection,Protection packaged multi products,Complaints opened,1171
+2025 H2,Insurance & pure protection,Protection packaged multi products,Provision,504214
+2025 H2,Insurance & pure protection,Total insurance & pure protection,Provision,97428403
+2025 H2,Insurance & pure protection,Travel,Complaints opened,33406
+2025 H2,Insurance & pure protection,Travel,Provision,35222674
+2025 H2,Insurance & pure protection,Warranty,Complaints opened,61571
+2025 H2,Insurance & pure protection,Warranty,Provision,22289898
+2025 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,23955
+2025 H2,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,27998868
+2025 H2,Investments,Crowdfunding / Peer to Peer,Complaints opened,268
+2025 H2,Investments,Crowdfunding / Peer to Peer,Provision,0
+2025 H2,Investments,Discretionary management services,Complaints opened,951
+2025 H2,Investments,Discretionary management services,Provision,49590536
+2025 H2,Investments,Endowments,Complaints opened,1789
+2025 H2,Investments,Endowments,Provision,1542250
+2025 H2,Investments,ETPs,Complaints opened,605
+2025 H2,Investments,ETPs,Provision,51060232
+2025 H2,Investments,FX/CFD/Spreadbetting,Complaints opened,1331
+2025 H2,Investments,FX/CFD/Spreadbetting,Provision,15015918
+2025 H2,Investments,Investment bonds ,Complaints opened,8918
+2025 H2,Investments,Investment bonds ,Provision,1964117
+2025 H2,Investments,Investment packaged multi products,Complaints opened,67
+2025 H2,Investments,Investment packaged multi products,Provision,16805
+2025 H2,Investments,Investment trusts,Complaints opened,354
+2025 H2,Investments,Investment trusts,Provision,855
+2025 H2,Investments,ISAs (where investment held),Complaints opened,18464
+2025 H2,Investments,ISAs (where investment held),Provision,11299587
+2025 H2,Investments,Non-discretionary management services,Complaints opened,937
+2025 H2,Investments,Non-discretionary management services,Provision,1810055
+2025 H2,Investments,Other investment products/funds,Complaints opened,7861
+2025 H2,Investments,Other investment products/funds,Provision,36361281
+2025 H2,Investments,Platforms,Complaints opened,8845
+2025 H2,Investments,Platforms,Provision,32903140
+2025 H2,Investments,Structured products,Complaints opened,235
+2025 H2,Investments,Structured products,Provision,8318
+2025 H2,Investments,Total investments,Provision,3137363351
+2025 H2,Investments,UCITS,Complaints opened,252
+2025 H2,Investments,UCITS,Provision,119242
+2025 H2,Investments,Unit trusts/OEICs,Complaints opened,3401
+2025 H2,Investments,Unit trusts/OEICs,Provision,1201566
+2026 H1,Banking and credit cards,Credit cards,Complaints opened,219131
+2026 H1,Banking and credit cards,Credit cards,Provision,64725855
+2026 H1,Banking and credit cards,Current accounts,Complaints opened,525653
+2026 H1,Banking and credit cards,Current accounts,Provision,138480125
+2026 H1,Banking and credit cards,Other banking - Please provide details below,Complaints opened,21464
+2026 H1,Banking and credit cards,Other banking - Please provide details below,Provision,9329739
+2026 H1,Banking and credit cards,Overdrafts,Complaints opened,26629
+2026 H1,Banking and credit cards,Overdrafts,Provision,51747533
+2026 H1,Banking and credit cards,Packaged accounts,Complaints opened,18796
+2026 H1,Banking and credit cards,Packaged accounts,Provision,12196621
+2026 H1,Banking and credit cards,Savings (including ISAs),Complaints opened,87204
+2026 H1,Banking and credit cards,Savings (including ISAs),Provision,144519322
+2026 H1,Banking and credit cards,Total banking and credit cards,Provision,9452581
+2026 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Complaints opened,7941
+2026 H1,Decumulation & pensions,Annuities (including enhanced and impaired),Provision,6037297
+2026 H1,Decumulation & pensions,Decumulation packaged multi products,Complaints opened,590
+2026 H1,Decumulation & pensions,Decumulation packaged multi products,Provision,412234
+2026 H1,Decumulation & pensions,Drawdown and UFPLS,Complaints opened,7888
+2026 H1,Decumulation & pensions,Drawdown and UFPLS,Provision,1349848
+2026 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Complaints opened,52473
+2026 H1,Decumulation & pensions,"Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",Provision,13402683
+2026 H1,Decumulation & pensions,Other decumulation,Complaints opened,15
+2026 H1,Decumulation & pensions,Other decumulation,Provision,332
+2026 H1,Decumulation & pensions,Other pensions,Complaints opened,242
+2026 H1,Decumulation & pensions,Other pensions,Provision,468031
+2026 H1,Decumulation & pensions,Pensions packaged multi products,Complaints opened,12
+2026 H1,Decumulation & pensions,Pensions packaged multi products,Provision,0
+2026 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Complaints opened,51
+2026 H1,Decumulation & pensions,"Third way products (e.g. investment linked, variable, fixed term)",Provision,14848
+2026 H1,Decumulation & pensions,Total decumulation & pensions,Provision,7674989
+2026 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Complaints opened,2053
+2026 H1,Decumulation & pensions,Trust based pensions (e.g. Occupational and DB),Provision,2400515
+2026 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Complaints opened,17436
+2026 H1,Decumulation & pensions,"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Provision,14889703
+2026 H1,Home finance,Equity release,Complaints opened,1756
+2026 H1,Home finance,Equity release,Provision,123757
+2026 H1,Home finance,Impaired credit,Complaints opened,395
+2026 H1,Home finance,Impaired credit,Provision,29448
+2026 H1,Home finance,Other regulated home finance products,Complaints opened,55889
+2026 H1,Home finance,Other regulated home finance products,Provision,8997391
+2026 H1,Home finance,Other unregulated home finance products,Complaints opened,11722
+2026 H1,Home finance,Other unregulated home finance products,Provision,2015016
+2026 H1,Home finance,Second and subsequent charge,Complaints opened,3108
+2026 H1,Home finance,Second and subsequent charge,Provision,55316
+2026 H1,Home finance,Total home finance,Provision,965079186
+2026 H1,Insurance & pure protection,Assistance,Complaints opened,21051
+2026 H1,Insurance & pure protection,Assistance,Provision,22399490
+2026 H1,Insurance & pure protection,General insurance packaged multi products,Complaints opened,12425
+2026 H1,Insurance & pure protection,General insurance packaged multi products,Provision,25284820
+2026 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Complaints opened,5470
+2026 H1,Insurance & pure protection,"Income protection and other accident, sickness and unemployment",Provision,2500309
+2026 H1,Insurance & pure protection,Medical/health,Complaints opened,74140
+2026 H1,Insurance & pure protection,Medical/health,Provision,10503427
+2026 H1,Insurance & pure protection,Motor & transport,Complaints opened,237421
+2026 H1,Insurance & pure protection,Motor & transport,Provision,66749365
+2026 H1,Insurance & pure protection,Other general insurance,Complaints opened,116937
+2026 H1,Insurance & pure protection,Other general insurance,Provision,65059594
+2026 H1,Insurance & pure protection,Other pure protection,Complaints opened,751
+2026 H1,Insurance & pure protection,Other pure protection,Provision,1139946
+2026 H1,Insurance & pure protection,Payment protection insurance,Complaints opened,850
+2026 H1,Insurance & pure protection,Payment protection insurance,Provision,9286927
+2026 H1,Insurance & pure protection,Pet,Complaints opened,20142
+2026 H1,Insurance & pure protection,Pet,Provision,5963899
+2026 H1,Insurance & pure protection,Property,Complaints opened,85527
+2026 H1,Insurance & pure protection,Property,Provision,38056368
+2026 H1,Insurance & pure protection,Protection packaged multi products,Complaints opened,1064
+2026 H1,Insurance & pure protection,Protection packaged multi products,Provision,525411
+2026 H1,Insurance & pure protection,Total insurance & pure protection,Provision,102585091
+2026 H1,Insurance & pure protection,Travel,Complaints opened,42215
+2026 H1,Insurance & pure protection,Travel,Provision,43446139
+2026 H1,Insurance & pure protection,Warranty,Complaints opened,78119
+2026 H1,Insurance & pure protection,Warranty,Provision,22264502
+2026 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Complaints opened,26862
+2026 H1,Insurance & pure protection,Whole of life/term assurance/critical illness,Provision,24079830
+2026 H1,Investments,Crowdfunding / Peer to Peer,Complaints opened,273
+2026 H1,Investments,Crowdfunding / Peer to Peer,Provision,0
+2026 H1,Investments,Discretionary management services,Complaints opened,1063
+2026 H1,Investments,Discretionary management services,Provision,77538883
+2026 H1,Investments,Endowments,Complaints opened,1729
+2026 H1,Investments,Endowments,Provision,1225449
+2026 H1,Investments,ETPs,Complaints opened,682
+2026 H1,Investments,ETPs,Provision,74524799
+2026 H1,Investments,FX/CFD/Spreadbetting,Complaints opened,2043
+2026 H1,Investments,FX/CFD/Spreadbetting,Provision,61849011
+2026 H1,Investments,Investment bonds ,Complaints opened,10518
+2026 H1,Investments,Investment bonds ,Provision,1882459
+2026 H1,Investments,Investment packaged multi products,Complaints opened,143
+2026 H1,Investments,Investment packaged multi products,Provision,46348
+2026 H1,Investments,Investment trusts,Complaints opened,365
+2026 H1,Investments,Investment trusts,Provision,92050
+2026 H1,Investments,ISAs (where investment held),Complaints opened,23763
+2026 H1,Investments,ISAs (where investment held),Provision,14398923
+2026 H1,Investments,Non-discretionary management services,Complaints opened,1123
+2026 H1,Investments,Non-discretionary management services,Provision,8699588
+2026 H1,Investments,Other investment products/funds,Complaints opened,8971
+2026 H1,Investments,Other investment products/funds,Provision,41713760
+2026 H1,Investments,Platforms,Complaints opened,12874
+2026 H1,Investments,Platforms,Provision,79258324
+2026 H1,Investments,Structured products,Complaints opened,319
+2026 H1,Investments,Structured products,Provision,11825
+2026 H1,Investments,Total investments,Provision,104246204
+2026 H1,Investments,UCITS,Complaints opened,305
+2026 H1,Investments,UCITS,Provision,121495
+2026 H1,Investments,Unit trusts/OEICs,Complaints opened,3764
+2026 H1,Investments,Unit trusts/OEICs,Provision,1217243

@@ -1,0 +1,561 @@
+half_year,firm_type,variable_type,variable,volume
+2021 H2,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,393154
+2021 H2,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,60578
+2021 H2,Bank and Building society,Complaints closed,Complaints closed within 3 days,466848
+2021 H2,Bank and Building society,Complaints opened,Total,881974
+2021 H2,Bank and Building society,Complaints upheld,Total complaints upheld,521984
+2021 H2,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,31507123
+2021 H2,Bank and Building society,Redress paid,Total redress paid for upheld complaints,157831980
+2021 H2,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,152307
+2021 H2,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,11765
+2021 H2,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,231005
+2021 H2,General insurance Intermediary,Complaints opened,Total,409606
+2021 H2,General insurance Intermediary,Complaints upheld,Total complaints upheld,266103
+2021 H2,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,1398708
+2021 H2,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,15238962
+2021 H2,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,14303
+2021 H2,Investment management,Complaints closed,Complaints closed > 8 weeks,6314
+2021 H2,Investment management,Complaints closed,Complaints closed within 3 days,6401
+2021 H2,Investment management,Complaints opened,Total,24420
+2021 H2,Investment management,Complaints upheld,Total complaints upheld,14071
+2021 H2,Investment management,Redress paid,Total redress paid for complaints not upheld,350622
+2021 H2,Investment management,Redress paid,Total redress paid for upheld complaints,5226779
+2021 H2,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,38971
+2021 H2,Life insurer,Complaints closed,Complaints closed > 8 weeks,8715
+2021 H2,Life insurer,Complaints closed,Complaints closed within 3 days,17451
+2021 H2,Life insurer,Complaints opened,Total,66827
+2021 H2,Life insurer,Complaints upheld,Total complaints upheld,44328
+2021 H2,Life insurer,Redress paid,Total redress paid for complaints not upheld,1356478
+2021 H2,Life insurer,Redress paid,Total redress paid for upheld complaints,20177259
+2021 H2,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,10597
+2021 H2,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1095
+2021 H2,Mortgage business,Complaints closed,Complaints closed within 3 days,2723
+2021 H2,Mortgage business,Complaints opened,Total,14280
+2021 H2,Mortgage business,Complaints upheld,Total complaints upheld,5649
+2021 H2,Mortgage business,Redress paid,Total redress paid for complaints not upheld,291387
+2021 H2,Mortgage business,Redress paid,Total redress paid for upheld complaints,1823600
+2021 H2,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,242288
+2021 H2,Other,Complaints closed,Complaints closed > 8 weeks,30157
+2021 H2,Other,Complaints closed,Complaints closed within 3 days,206436
+2021 H2,Other,Complaints opened,Total,481888
+2021 H2,Other,Complaints upheld,Total complaints upheld,268324
+2021 H2,Other,Redress paid,Total redress paid for complaints not upheld,3820115
+2021 H2,Other,Redress paid,Total redress paid for upheld complaints,41025797
+2021 H2,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,2901
+2021 H2,Personal Investment,Complaints closed,Complaints closed > 8 weeks,873
+2021 H2,Personal Investment,Complaints closed,Complaints closed within 3 days,378
+2021 H2,Personal Investment,Complaints opened,Total,4223
+2021 H2,Personal Investment,Complaints upheld,Total complaints upheld,1584
+2021 H2,Personal Investment,Redress paid,Total redress paid for complaints not upheld,2645790
+2021 H2,Personal Investment,Redress paid,Total redress paid for upheld complaints,12004943
+2021 H2,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,502
+2021 H2,Securities and futures,Complaints closed,Complaints closed > 8 weeks,17
+2021 H2,Securities and futures,Complaints closed,Complaints closed within 3 days,377
+2021 H2,Securities and futures,Complaints opened,Total,1006
+2021 H2,Securities and futures,Complaints upheld,Total complaints upheld,223
+2021 H2,Securities and futures,Redress paid,Total redress paid for complaints not upheld,77549
+2021 H2,Securities and futures,Redress paid,Total redress paid for upheld complaints,153410
+2022 H1,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,349810
+2022 H1,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,31293
+2022 H1,Bank and Building society,Complaints closed,Complaints closed within 3 days,470523
+2022 H1,Bank and Building society,Complaints opened,Total,857208
+2022 H1,Bank and Building society,Complaints upheld,Total complaints upheld,504616
+2022 H1,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,26924913
+2022 H1,Bank and Building society,Redress paid,Total redress paid for upheld complaints,130536990
+2022 H1,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,156595
+2022 H1,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,23368
+2022 H1,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,255877
+2022 H1,General insurance Intermediary,Complaints opened,Total,436362
+2022 H1,General insurance Intermediary,Complaints upheld,Total complaints upheld,312320
+2022 H1,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,1358431
+2022 H1,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,14794836
+2022 H1,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,14678
+2022 H1,Investment management,Complaints closed,Complaints closed > 8 weeks,2817
+2022 H1,Investment management,Complaints closed,Complaints closed within 3 days,6580
+2022 H1,Investment management,Complaints opened,Total,22777
+2022 H1,Investment management,Complaints upheld,Total complaints upheld,11130
+2022 H1,Investment management,Redress paid,Total redress paid for complaints not upheld,1063611
+2022 H1,Investment management,Redress paid,Total redress paid for upheld complaints,4834081
+2022 H1,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,38481
+2022 H1,Life insurer,Complaints closed,Complaints closed > 8 weeks,7561
+2022 H1,Life insurer,Complaints closed,Complaints closed within 3 days,20060
+2022 H1,Life insurer,Complaints opened,Total,70436
+2022 H1,Life insurer,Complaints upheld,Total complaints upheld,44000
+2022 H1,Life insurer,Redress paid,Total redress paid for complaints not upheld,1447814
+2022 H1,Life insurer,Redress paid,Total redress paid for upheld complaints,17099547
+2022 H1,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,11023
+2022 H1,Mortgage business,Complaints closed,Complaints closed > 8 weeks,967
+2022 H1,Mortgage business,Complaints closed,Complaints closed within 3 days,2601
+2022 H1,Mortgage business,Complaints opened,Total,15511
+2022 H1,Mortgage business,Complaints upheld,Total complaints upheld,6203
+2022 H1,Mortgage business,Redress paid,Total redress paid for complaints not upheld,255864
+2022 H1,Mortgage business,Redress paid,Total redress paid for upheld complaints,2646606
+2022 H1,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,261429
+2022 H1,Other,Complaints closed,Complaints closed > 8 weeks,33673
+2022 H1,Other,Complaints closed,Complaints closed within 3 days,219274
+2022 H1,Other,Complaints opened,Total,518412
+2022 H1,Other,Complaints upheld,Total complaints upheld,291246
+2022 H1,Other,Redress paid,Total redress paid for complaints not upheld,3364812
+2022 H1,Other,Redress paid,Total redress paid for upheld complaints,89896494
+2022 H1,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,2947
+2022 H1,Personal Investment,Complaints closed,Complaints closed > 8 weeks,813
+2022 H1,Personal Investment,Complaints closed,Complaints closed within 3 days,480
+2022 H1,Personal Investment,Complaints opened,Total,4789
+2022 H1,Personal Investment,Complaints upheld,Total complaints upheld,1748
+2022 H1,Personal Investment,Redress paid,Total redress paid for complaints not upheld,1381064
+2022 H1,Personal Investment,Redress paid,Total redress paid for upheld complaints,8851310
+2022 H1,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,620
+2022 H1,Securities and futures,Complaints closed,Complaints closed > 8 weeks,44
+2022 H1,Securities and futures,Complaints closed,Complaints closed within 3 days,365
+2022 H1,Securities and futures,Complaints opened,Total,1216
+2022 H1,Securities and futures,Complaints upheld,Total complaints upheld,186
+2022 H1,Securities and futures,Redress paid,Total redress paid for complaints not upheld,68038
+2022 H1,Securities and futures,Redress paid,Total redress paid for upheld complaints,99786
+2022 H2,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,365606
+2022 H2,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,38875
+2022 H2,Bank and Building society,Complaints closed,Complaints closed within 3 days,418578
+2022 H2,Bank and Building society,Complaints opened,Total,824123
+2022 H2,Bank and Building society,Complaints upheld,Total complaints upheld,502518
+2022 H2,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,20743733
+2022 H2,Bank and Building society,Redress paid,Total redress paid for upheld complaints,114169043
+2022 H2,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,149100
+2022 H2,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,17729
+2022 H2,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,156706
+2022 H2,General insurance Intermediary,Complaints opened,Total,349048
+2022 H2,General insurance Intermediary,Complaints upheld,Total complaints upheld,204371
+2022 H2,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,1382313
+2022 H2,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,12195637
+2022 H2,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,12250
+2022 H2,Investment management,Complaints closed,Complaints closed > 8 weeks,1326
+2022 H2,Investment management,Complaints closed,Complaints closed within 3 days,5984
+2022 H2,Investment management,Complaints opened,Total,20210
+2022 H2,Investment management,Complaints upheld,Total complaints upheld,9358
+2022 H2,Investment management,Redress paid,Total redress paid for complaints not upheld,547564
+2022 H2,Investment management,Redress paid,Total redress paid for upheld complaints,4265560
+2022 H2,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,40354
+2022 H2,Life insurer,Complaints closed,Complaints closed > 8 weeks,10667
+2022 H2,Life insurer,Complaints closed,Complaints closed within 3 days,20377
+2022 H2,Life insurer,Complaints opened,Total,71752
+2022 H2,Life insurer,Complaints upheld,Total complaints upheld,48250
+2022 H2,Life insurer,Redress paid,Total redress paid for complaints not upheld,694438
+2022 H2,Life insurer,Redress paid,Total redress paid for upheld complaints,19127625
+2022 H2,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,12646
+2022 H2,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1642
+2022 H2,Mortgage business,Complaints closed,Complaints closed within 3 days,2719
+2022 H2,Mortgage business,Complaints opened,Total,17679
+2022 H2,Mortgage business,Complaints upheld,Total complaints upheld,7563
+2022 H2,Mortgage business,Redress paid,Total redress paid for complaints not upheld,286304
+2022 H2,Mortgage business,Redress paid,Total redress paid for upheld complaints,3453469
+2022 H2,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,256644
+2022 H2,Other,Complaints closed,Complaints closed > 8 weeks,32137
+2022 H2,Other,Complaints closed,Complaints closed within 3 days,213148
+2022 H2,Other,Complaints opened,Total,511467
+2022 H2,Other,Complaints upheld,Total complaints upheld,287855
+2022 H2,Other,Redress paid,Total redress paid for complaints not upheld,2730321
+2022 H2,Other,Redress paid,Total redress paid for upheld complaints,34751683
+2022 H2,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,3331
+2022 H2,Personal Investment,Complaints closed,Complaints closed > 8 weeks,1135
+2022 H2,Personal Investment,Complaints closed,Complaints closed within 3 days,477
+2022 H2,Personal Investment,Complaints opened,Total,6314
+2022 H2,Personal Investment,Complaints upheld,Total complaints upheld,1941
+2022 H2,Personal Investment,Redress paid,Total redress paid for complaints not upheld,2887173
+2022 H2,Personal Investment,Redress paid,Total redress paid for upheld complaints,10616784
+2022 H2,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,584
+2022 H2,Securities and futures,Complaints closed,Complaints closed > 8 weeks,26
+2022 H2,Securities and futures,Complaints closed,Complaints closed within 3 days,452
+2022 H2,Securities and futures,Complaints opened,Total,1142
+2022 H2,Securities and futures,Complaints upheld,Total complaints upheld,204
+2022 H2,Securities and futures,Redress paid,Total redress paid for complaints not upheld,382928
+2022 H2,Securities and futures,Redress paid,Total redress paid for upheld complaints,144949
+2023 H1,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,351388
+2023 H1,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,49931
+2023 H1,Bank and Building society,Complaints closed,Complaints closed within 3 days,436009
+2023 H1,Bank and Building society,Complaints opened,Total,825325
+2023 H1,Bank and Building society,Complaints upheld,Total complaints upheld,515779
+2023 H1,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,16119451
+2023 H1,Bank and Building society,Redress paid,Total redress paid for upheld complaints,111121337
+2023 H1,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,173660
+2023 H1,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,34642
+2023 H1,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,171568
+2023 H1,General insurance Intermediary,Complaints opened,Total,365490
+2023 H1,General insurance Intermediary,Complaints upheld,Total complaints upheld,241345
+2023 H1,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,1618885
+2023 H1,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,17270337
+2023 H1,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,17574
+2023 H1,Investment management,Complaints closed,Complaints closed > 8 weeks,1944
+2023 H1,Investment management,Complaints closed,Complaints closed within 3 days,6378
+2023 H1,Investment management,Complaints opened,Total,27572
+2023 H1,Investment management,Complaints upheld,Total complaints upheld,12187
+2023 H1,Investment management,Redress paid,Total redress paid for complaints not upheld,574670
+2023 H1,Investment management,Redress paid,Total redress paid for upheld complaints,9043155
+2023 H1,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,47290
+2023 H1,Life insurer,Complaints closed,Complaints closed > 8 weeks,16310
+2023 H1,Life insurer,Complaints closed,Complaints closed within 3 days,19521
+2023 H1,Life insurer,Complaints opened,Total,84991
+2023 H1,Life insurer,Complaints upheld,Total complaints upheld,57276
+2023 H1,Life insurer,Redress paid,Total redress paid for complaints not upheld,684322
+2023 H1,Life insurer,Redress paid,Total redress paid for upheld complaints,20226266
+2023 H1,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,12361
+2023 H1,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1636
+2023 H1,Mortgage business,Complaints closed,Complaints closed within 3 days,2456
+2023 H1,Mortgage business,Complaints opened,Total,16484
+2023 H1,Mortgage business,Complaints upheld,Total complaints upheld,7245
+2023 H1,Mortgage business,Redress paid,Total redress paid for complaints not upheld,273984
+2023 H1,Mortgage business,Redress paid,Total redress paid for upheld complaints,2628689
+2023 H1,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,283761
+2023 H1,Other,Complaints closed,Complaints closed > 8 weeks,37966
+2023 H1,Other,Complaints closed,Complaints closed within 3 days,226098
+2023 H1,Other,Complaints opened,Total,555946
+2023 H1,Other,Complaints upheld,Total complaints upheld,315601
+2023 H1,Other,Redress paid,Total redress paid for complaints not upheld,3144636
+2023 H1,Other,Redress paid,Total redress paid for upheld complaints,39725452
+2023 H1,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,3208
+2023 H1,Personal Investment,Complaints closed,Complaints closed > 8 weeks,2655
+2023 H1,Personal Investment,Complaints closed,Complaints closed within 3 days,417
+2023 H1,Personal Investment,Complaints opened,Total,8635
+2023 H1,Personal Investment,Complaints upheld,Total complaints upheld,2863
+2023 H1,Personal Investment,Redress paid,Total redress paid for complaints not upheld,3001270
+2023 H1,Personal Investment,Redress paid,Total redress paid for upheld complaints,10821460
+2023 H1,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,556
+2023 H1,Securities and futures,Complaints closed,Complaints closed > 8 weeks,20
+2023 H1,Securities and futures,Complaints closed,Complaints closed within 3 days,457
+2023 H1,Securities and futures,Complaints opened,Total,1088
+2023 H1,Securities and futures,Complaints upheld,Total complaints upheld,146
+2023 H1,Securities and futures,Redress paid,Total redress paid for complaints not upheld,149539
+2023 H1,Securities and futures,Redress paid,Total redress paid for upheld complaints,95711
+2023 H2,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,385285
+2023 H2,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,32276
+2023 H2,Bank and Building society,Complaints closed,Complaints closed within 3 days,419089
+2023 H2,Bank and Building society,Complaints opened,Total,843367
+2023 H2,Bank and Building society,Complaints upheld,Total complaints upheld,512054
+2023 H2,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,25705822
+2023 H2,Bank and Building society,Redress paid,Total redress paid for upheld complaints,105633014
+2023 H2,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,173705
+2023 H2,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,14511
+2023 H2,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,175921
+2023 H2,General insurance Intermediary,Complaints opened,Total,362288
+2023 H2,General insurance Intermediary,Complaints upheld,Total complaints upheld,212450
+2023 H2,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,1892437
+2023 H2,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,16035897
+2023 H2,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,19200
+2023 H2,Investment management,Complaints closed,Complaints closed > 8 weeks,2357
+2023 H2,Investment management,Complaints closed,Complaints closed within 3 days,6025
+2023 H2,Investment management,Complaints opened,Total,28518
+2023 H2,Investment management,Complaints upheld,Total complaints upheld,14326
+2023 H2,Investment management,Redress paid,Total redress paid for complaints not upheld,946796
+2023 H2,Investment management,Redress paid,Total redress paid for upheld complaints,21529241
+2023 H2,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,50356
+2023 H2,Life insurer,Complaints closed,Complaints closed > 8 weeks,11793
+2023 H2,Life insurer,Complaints closed,Complaints closed within 3 days,19518
+2023 H2,Life insurer,Complaints opened,Total,80663
+2023 H2,Life insurer,Complaints upheld,Total complaints upheld,56994
+2023 H2,Life insurer,Redress paid,Total redress paid for complaints not upheld,1684278
+2023 H2,Life insurer,Redress paid,Total redress paid for upheld complaints,24324390
+2023 H2,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,14663
+2023 H2,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1450
+2023 H2,Mortgage business,Complaints closed,Complaints closed within 3 days,2674
+2023 H2,Mortgage business,Complaints opened,Total,19255
+2023 H2,Mortgage business,Complaints upheld,Total complaints upheld,8120
+2023 H2,Mortgage business,Redress paid,Total redress paid for complaints not upheld,428417
+2023 H2,Mortgage business,Redress paid,Total redress paid for upheld complaints,2717130
+2023 H2,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,270718
+2023 H2,Other,Complaints closed,Complaints closed > 8 weeks,45902
+2023 H2,Other,Complaints closed,Complaints closed within 3 days,253493
+2023 H2,Other,Complaints opened,Total,590550
+2023 H2,Other,Complaints upheld,Total complaints upheld,279707
+2023 H2,Other,Redress paid,Total redress paid for complaints not upheld,3203471
+2023 H2,Other,Redress paid,Total redress paid for upheld complaints,38394600
+2023 H2,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,3547
+2023 H2,Personal Investment,Complaints closed,Complaints closed > 8 weeks,4184
+2023 H2,Personal Investment,Complaints closed,Complaints closed within 3 days,446
+2023 H2,Personal Investment,Complaints opened,Total,13237
+2023 H2,Personal Investment,Complaints upheld,Total complaints upheld,3968
+2023 H2,Personal Investment,Redress paid,Total redress paid for complaints not upheld,5386934
+2023 H2,Personal Investment,Redress paid,Total redress paid for upheld complaints,12790495
+2023 H2,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,553
+2023 H2,Securities and futures,Complaints closed,Complaints closed > 8 weeks,18
+2023 H2,Securities and futures,Complaints closed,Complaints closed within 3 days,716
+2023 H2,Securities and futures,Complaints opened,Total,1326
+2023 H2,Securities and futures,Complaints upheld,Total complaints upheld,239
+2023 H2,Securities and futures,Redress paid,Total redress paid for complaints not upheld,55484
+2023 H2,Securities and futures,Redress paid,Total redress paid for upheld complaints,327815
+2024 H1,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,387661
+2024 H1,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,30509
+2024 H1,Bank and Building society,Complaints closed,Complaints closed within 3 days,405491
+2024 H1,Bank and Building society,Complaints opened,Total,815837
+2024 H1,Bank and Building society,Complaints upheld,Total complaints upheld,489437
+2024 H1,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,16913220
+2024 H1,Bank and Building society,Redress paid,Total redress paid for upheld complaints,98885264
+2024 H1,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,171172
+2024 H1,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,10875
+2024 H1,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,184547
+2024 H1,General insurance Intermediary,Complaints opened,Total,365679
+2024 H1,General insurance Intermediary,Complaints upheld,Total complaints upheld,208276
+2024 H1,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,2091444
+2024 H1,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,17194214
+2024 H1,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,20912
+2024 H1,Investment management,Complaints closed,Complaints closed > 8 weeks,3989
+2024 H1,Investment management,Complaints closed,Complaints closed within 3 days,6121
+2024 H1,Investment management,Complaints opened,Total,31136
+2024 H1,Investment management,Complaints upheld,Total complaints upheld,16546
+2024 H1,Investment management,Redress paid,Total redress paid for complaints not upheld,680547
+2024 H1,Investment management,Redress paid,Total redress paid for upheld complaints,8787442
+2024 H1,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,49255
+2024 H1,Life insurer,Complaints closed,Complaints closed > 8 weeks,9255
+2024 H1,Life insurer,Complaints closed,Complaints closed within 3 days,21665
+2024 H1,Life insurer,Complaints opened,Total,81281
+2024 H1,Life insurer,Complaints upheld,Total complaints upheld,55230
+2024 H1,Life insurer,Redress paid,Total redress paid for complaints not upheld,2255027
+2024 H1,Life insurer,Redress paid,Total redress paid for upheld complaints,25597575
+2024 H1,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,12964
+2024 H1,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1322
+2024 H1,Mortgage business,Complaints closed,Complaints closed within 3 days,3412
+2024 H1,Mortgage business,Complaints opened,Total,17188
+2024 H1,Mortgage business,Complaints upheld,Total complaints upheld,7490
+2024 H1,Mortgage business,Redress paid,Total redress paid for complaints not upheld,346667
+2024 H1,Mortgage business,Redress paid,Total redress paid for upheld complaints,2404290
+2024 H1,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,282428
+2024 H1,Other,Complaints closed,Complaints closed > 8 weeks,66896
+2024 H1,Other,Complaints closed,Complaints closed within 3 days,187582
+2024 H1,Other,Complaints opened,Total,532216
+2024 H1,Other,Complaints upheld,Total complaints upheld,277405
+2024 H1,Other,Redress paid,Total redress paid for complaints not upheld,4093747
+2024 H1,Other,Redress paid,Total redress paid for upheld complaints,44887663
+2024 H1,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,3574
+2024 H1,Personal Investment,Complaints closed,Complaints closed > 8 weeks,6864
+2024 H1,Personal Investment,Complaints closed,Complaints closed within 3 days,527
+2024 H1,Personal Investment,Complaints opened,Total,20209
+2024 H1,Personal Investment,Complaints upheld,Total complaints upheld,5027
+2024 H1,Personal Investment,Redress paid,Total redress paid for complaints not upheld,3237286
+2024 H1,Personal Investment,Redress paid,Total redress paid for upheld complaints,15110777
+2024 H1,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,484
+2024 H1,Securities and futures,Complaints closed,Complaints closed > 8 weeks,20
+2024 H1,Securities and futures,Complaints closed,Complaints closed within 3 days,574
+2024 H1,Securities and futures,Complaints opened,Total,1120
+2024 H1,Securities and futures,Complaints upheld,Total complaints upheld,163
+2024 H1,Securities and futures,Redress paid,Total redress paid for complaints not upheld,245228
+2024 H1,Securities and futures,Redress paid,Total redress paid for upheld complaints,456365
+2024 H2,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,362399
+2024 H2,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,33333
+2024 H2,Bank and Building society,Complaints closed,Complaints closed within 3 days,407646
+2024 H2,Bank and Building society,Complaints opened,Total,805090
+2024 H2,Bank and Building society,Complaints upheld,Total complaints upheld,468840
+2024 H2,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,16466342
+2024 H2,Bank and Building society,Redress paid,Total redress paid for upheld complaints,98416596
+2024 H2,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,163675
+2024 H2,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,7559
+2024 H2,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,178455
+2024 H2,General insurance Intermediary,Complaints opened,Total,364228
+2024 H2,General insurance Intermediary,Complaints upheld,Total complaints upheld,197944
+2024 H2,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,2025375
+2024 H2,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,16695012
+2024 H2,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,21435
+2024 H2,Investment management,Complaints closed,Complaints closed > 8 weeks,2455
+2024 H2,Investment management,Complaints closed,Complaints closed within 3 days,5744
+2024 H2,Investment management,Complaints opened,Total,29926
+2024 H2,Investment management,Complaints upheld,Total complaints upheld,16010
+2024 H2,Investment management,Redress paid,Total redress paid for complaints not upheld,379412
+2024 H2,Investment management,Redress paid,Total redress paid for upheld complaints,5756446
+2024 H2,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,51407
+2024 H2,Life insurer,Complaints closed,Complaints closed > 8 weeks,8000
+2024 H2,Life insurer,Complaints closed,Complaints closed within 3 days,20870
+2024 H2,Life insurer,Complaints opened,Total,80319
+2024 H2,Life insurer,Complaints upheld,Total complaints upheld,56299
+2024 H2,Life insurer,Redress paid,Total redress paid for complaints not upheld,3182577
+2024 H2,Life insurer,Redress paid,Total redress paid for upheld complaints,23742645
+2024 H2,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,11948
+2024 H2,Mortgage business,Complaints closed,Complaints closed > 8 weeks,1763
+2024 H2,Mortgage business,Complaints closed,Complaints closed within 3 days,3462
+2024 H2,Mortgage business,Complaints opened,Total,16361
+2024 H2,Mortgage business,Complaints upheld,Total complaints upheld,6963
+2024 H2,Mortgage business,Redress paid,Total redress paid for complaints not upheld,409261
+2024 H2,Mortgage business,Redress paid,Total redress paid for upheld complaints,2606077
+2024 H2,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,276677
+2024 H2,Other,Complaints closed,Complaints closed > 8 weeks,29389
+2024 H2,Other,Complaints closed,Complaints closed within 3 days,179583
+2024 H2,Other,Complaints opened,Total,476428
+2024 H2,Other,Complaints upheld,Total complaints upheld,255359
+2024 H2,Other,Redress paid,Total redress paid for complaints not upheld,2679172
+2024 H2,Other,Redress paid,Total redress paid for upheld complaints,40765757
+2024 H2,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,4252
+2024 H2,Personal Investment,Complaints closed,Complaints closed > 8 weeks,11820
+2024 H2,Personal Investment,Complaints closed,Complaints closed within 3 days,552
+2024 H2,Personal Investment,Complaints opened,Total,10919
+2024 H2,Personal Investment,Complaints upheld,Total complaints upheld,8345
+2024 H2,Personal Investment,Redress paid,Total redress paid for complaints not upheld,1638448
+2024 H2,Personal Investment,Redress paid,Total redress paid for upheld complaints,19946819
+2024 H2,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,536
+2024 H2,Securities and futures,Complaints closed,Complaints closed > 8 weeks,32
+2024 H2,Securities and futures,Complaints closed,Complaints closed within 3 days,410
+2024 H2,Securities and futures,Complaints opened,Total,1126
+2024 H2,Securities and futures,Complaints upheld,Total complaints upheld,162
+2024 H2,Securities and futures,Redress paid,Total redress paid for complaints not upheld,194541
+2024 H2,Securities and futures,Redress paid,Total redress paid for upheld complaints,970828
+2025 H1,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,370327
+2025 H1,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,48312
+2025 H1,Bank and Building society,Complaints closed,Complaints closed within 3 days,454387
+2025 H1,Bank and Building society,Complaints opened,Total,873987
+2025 H1,Bank and Building society,Complaints upheld,Total complaints upheld,530605
+2025 H1,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,15976189
+2025 H1,Bank and Building society,Redress paid,Total redress paid for upheld complaints,112276882
+2025 H1,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,155009
+2025 H1,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,11156
+2025 H1,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,164462
+2025 H1,General insurance Intermediary,Complaints opened,Total,334124
+2025 H1,General insurance Intermediary,Complaints upheld,Total complaints upheld,187638
+2025 H1,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,2148456
+2025 H1,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,18359537
+2025 H1,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,22723
+2025 H1,Investment management,Complaints closed,Complaints closed > 8 weeks,3881
+2025 H1,Investment management,Complaints closed,Complaints closed within 3 days,7946
+2025 H1,Investment management,Complaints opened,Total,34767
+2025 H1,Investment management,Complaints upheld,Total complaints upheld,17701
+2025 H1,Investment management,Redress paid,Total redress paid for complaints not upheld,1383695
+2025 H1,Investment management,Redress paid,Total redress paid for upheld complaints,7343766
+2025 H1,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,51418
+2025 H1,Life insurer,Complaints closed,Complaints closed > 8 weeks,8020
+2025 H1,Life insurer,Complaints closed,Complaints closed within 3 days,21812
+2025 H1,Life insurer,Complaints opened,Total,82953
+2025 H1,Life insurer,Complaints upheld,Total complaints upheld,56207
+2025 H1,Life insurer,Redress paid,Total redress paid for complaints not upheld,3770599
+2025 H1,Life insurer,Redress paid,Total redress paid for upheld complaints,21223713
+2025 H1,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,10771
+2025 H1,Mortgage business,Complaints closed,Complaints closed > 8 weeks,610
+2025 H1,Mortgage business,Complaints closed,Complaints closed within 3 days,3774
+2025 H1,Mortgage business,Complaints opened,Total,15612
+2025 H1,Mortgage business,Complaints upheld,Total complaints upheld,6318
+2025 H1,Mortgage business,Redress paid,Total redress paid for complaints not upheld,332203
+2025 H1,Mortgage business,Redress paid,Total redress paid for upheld complaints,1865722
+2025 H1,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,272471
+2025 H1,Other,Complaints closed,Complaints closed > 8 weeks,24842
+2025 H1,Other,Complaints closed,Complaints closed within 3 days,173625
+2025 H1,Other,Complaints opened,Total,474580
+2025 H1,Other,Complaints upheld,Total complaints upheld,248731
+2025 H1,Other,Redress paid,Total redress paid for complaints not upheld,6758219
+2025 H1,Other,Redress paid,Total redress paid for upheld complaints,65791299
+2025 H1,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,5802
+2025 H1,Personal Investment,Complaints closed,Complaints closed > 8 weeks,10657
+2025 H1,Personal Investment,Complaints closed,Complaints closed within 3 days,641
+2025 H1,Personal Investment,Complaints opened,Total,11343
+2025 H1,Personal Investment,Complaints upheld,Total complaints upheld,8289
+2025 H1,Personal Investment,Redress paid,Total redress paid for complaints not upheld,1471397
+2025 H1,Personal Investment,Redress paid,Total redress paid for upheld complaints,24040846
+2025 H1,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,632
+2025 H1,Securities and futures,Complaints closed,Complaints closed > 8 weeks,18
+2025 H1,Securities and futures,Complaints closed,Complaints closed within 3 days,554
+2025 H1,Securities and futures,Complaints opened,Total,1180
+2025 H1,Securities and futures,Complaints upheld,Total complaints upheld,216
+2025 H1,Securities and futures,Redress paid,Total redress paid for complaints not upheld,165561
+2025 H1,Securities and futures,Redress paid,Total redress paid for upheld complaints,751210
+2025 H2,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,362530
+2025 H2,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,52380
+2025 H2,Bank and Building society,Complaints closed,Complaints closed within 3 days,402233
+2025 H2,Bank and Building society,Complaints opened,Total,827887
+2025 H2,Bank and Building society,Complaints upheld,Total complaints upheld,463552
+2025 H2,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,18891004
+2025 H2,Bank and Building society,Redress paid,Total redress paid for upheld complaints,107178389
+2025 H2,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,141552
+2025 H2,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,9599
+2025 H2,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,160442
+2025 H2,General insurance Intermediary,Complaints opened,Total,316133
+2025 H2,General insurance Intermediary,Complaints upheld,Total complaints upheld,173417
+2025 H2,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,2240308
+2025 H2,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,17360923
+2025 H2,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,25456
+2025 H2,Investment management,Complaints closed,Complaints closed > 8 weeks,2801
+2025 H2,Investment management,Complaints closed,Complaints closed within 3 days,8194
+2025 H2,Investment management,Complaints opened,Total,37547
+2025 H2,Investment management,Complaints upheld,Total complaints upheld,17872
+2025 H2,Investment management,Redress paid,Total redress paid for complaints not upheld,1199438
+2025 H2,Investment management,Redress paid,Total redress paid for upheld complaints,9346381
+2025 H2,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,48874
+2025 H2,Life insurer,Complaints closed,Complaints closed > 8 weeks,7887
+2025 H2,Life insurer,Complaints closed,Complaints closed within 3 days,20726
+2025 H2,Life insurer,Complaints opened,Total,76726
+2025 H2,Life insurer,Complaints upheld,Total complaints upheld,53423
+2025 H2,Life insurer,Redress paid,Total redress paid for complaints not upheld,1788586
+2025 H2,Life insurer,Redress paid,Total redress paid for upheld complaints,19255203
+2025 H2,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,11664
+2025 H2,Mortgage business,Complaints closed,Complaints closed > 8 weeks,714
+2025 H2,Mortgage business,Complaints closed,Complaints closed within 3 days,3272
+2025 H2,Mortgage business,Complaints opened,Total,16058
+2025 H2,Mortgage business,Complaints upheld,Total complaints upheld,6449
+2025 H2,Mortgage business,Redress paid,Total redress paid for complaints not upheld,337673
+2025 H2,Mortgage business,Redress paid,Total redress paid for upheld complaints,1810849
+2025 H2,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,257066
+2025 H2,Other,Complaints closed,Complaints closed > 8 weeks,17719
+2025 H2,Other,Complaints closed,Complaints closed within 3 days,174230
+2025 H2,Other,Complaints opened,Total,456222
+2025 H2,Other,Complaints upheld,Total complaints upheld,235494
+2025 H2,Other,Redress paid,Total redress paid for complaints not upheld,3860603
+2025 H2,Other,Redress paid,Total redress paid for upheld complaints,31640204
+2025 H2,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,6918
+2025 H2,Personal Investment,Complaints closed,Complaints closed > 8 weeks,4828
+2025 H2,Personal Investment,Complaints closed,Complaints closed within 3 days,542
+2025 H2,Personal Investment,Complaints opened,Total,9330
+2025 H2,Personal Investment,Complaints upheld,Total complaints upheld,5360
+2025 H2,Personal Investment,Redress paid,Total redress paid for complaints not upheld,1580111
+2025 H2,Personal Investment,Redress paid,Total redress paid for upheld complaints,17790805
+2025 H2,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,757
+2025 H2,Securities and futures,Complaints closed,Complaints closed > 8 weeks,32
+2025 H2,Securities and futures,Complaints closed,Complaints closed within 3 days,612
+2025 H2,Securities and futures,Complaints opened,Total,1434
+2025 H2,Securities and futures,Complaints upheld,Total complaints upheld,361
+2025 H2,Securities and futures,Redress paid,Total redress paid for complaints not upheld,175183
+2025 H2,Securities and futures,Redress paid,Total redress paid for upheld complaints,1307215
+2026 H1,Bank and Building society,Complaints closed,Complaints closed > 3 days but within 8 weeks,375799
+2026 H1,Bank and Building society,Complaints closed,Complaints closed > 8 weeks,53598
+2026 H1,Bank and Building society,Complaints closed,Complaints closed within 3 days,449623
+2026 H1,Bank and Building society,Complaints opened,Total,874313
+2026 H1,Bank and Building society,Complaints upheld,Total complaints upheld,481297
+2026 H1,Bank and Building society,Redress paid,Total redress paid for complaints not upheld,25765821
+2026 H1,Bank and Building society,Redress paid,Total redress paid for upheld complaints,109161173
+2026 H1,General insurance Intermediary,Complaints closed,Complaints closed > 3 days but within 8 weeks,160491
+2026 H1,General insurance Intermediary,Complaints closed,Complaints closed > 8 weeks,12469
+2026 H1,General insurance Intermediary,Complaints closed,Complaints closed within 3 days,157112
+2026 H1,General insurance Intermediary,Complaints opened,Total,335121
+2026 H1,General insurance Intermediary,Complaints upheld,Total complaints upheld,184584
+2026 H1,General insurance Intermediary,Redress paid,Total redress paid for complaints not upheld,2146058
+2026 H1,General insurance Intermediary,Redress paid,Total redress paid for upheld complaints,18880004
+2026 H1,Investment management,Complaints closed,Complaints closed > 3 days but within 8 weeks,29621
+2026 H1,Investment management,Complaints closed,Complaints closed > 8 weeks,4922
+2026 H1,Investment management,Complaints closed,Complaints closed within 3 days,10013
+2026 H1,Investment management,Complaints opened,Total,49128
+2026 H1,Investment management,Complaints upheld,Total complaints upheld,22060
+2026 H1,Investment management,Redress paid,Total redress paid for complaints not upheld,714842
+2026 H1,Investment management,Redress paid,Total redress paid for upheld complaints,9447851
+2026 H1,Life insurer,Complaints closed,Complaints closed > 3 days but within 8 weeks,67440
+2026 H1,Life insurer,Complaints closed,Complaints closed > 8 weeks,10834
+2026 H1,Life insurer,Complaints closed,Complaints closed within 3 days,29037
+2026 H1,Life insurer,Complaints opened,Total,108846
+2026 H1,Life insurer,Complaints upheld,Total complaints upheld,74096
+2026 H1,Life insurer,Redress paid,Total redress paid for complaints not upheld,1906122
+2026 H1,Life insurer,Redress paid,Total redress paid for upheld complaints,21265050
+2026 H1,Mortgage business,Complaints closed,Complaints closed > 3 days but within 8 weeks,11206
+2026 H1,Mortgage business,Complaints closed,Complaints closed > 8 weeks,703
+2026 H1,Mortgage business,Complaints closed,Complaints closed within 3 days,3147
+2026 H1,Mortgage business,Complaints opened,Total,15428
+2026 H1,Mortgage business,Complaints upheld,Total complaints upheld,5779
+2026 H1,Mortgage business,Redress paid,Total redress paid for complaints not upheld,309626
+2026 H1,Mortgage business,Redress paid,Total redress paid for upheld complaints,1622619
+2026 H1,Other,Complaints closed,Complaints closed > 3 days but within 8 weeks,258225
+2026 H1,Other,Complaints closed,Complaints closed > 8 weeks,17156
+2026 H1,Other,Complaints closed,Complaints closed within 3 days,169251
+2026 H1,Other,Complaints opened,Total,456023
+2026 H1,Other,Complaints upheld,Total complaints upheld,230672
+2026 H1,Other,Redress paid,Total redress paid for complaints not upheld,2937372
+2026 H1,Other,Redress paid,Total redress paid for upheld complaints,30695171
+2026 H1,Personal Investment,Complaints closed,Complaints closed > 3 days but within 8 weeks,7769
+2026 H1,Personal Investment,Complaints closed,Complaints closed > 8 weeks,1232
+2026 H1,Personal Investment,Complaints closed,Complaints closed within 3 days,713
+2026 H1,Personal Investment,Complaints opened,Total,10462
+2026 H1,Personal Investment,Complaints upheld,Total complaints upheld,4086
+2026 H1,Personal Investment,Redress paid,Total redress paid for complaints not upheld,855462
+2026 H1,Personal Investment,Redress paid,Total redress paid for upheld complaints,13676677
+2026 H1,Securities and futures,Complaints closed,Complaints closed > 3 days but within 8 weeks,587
+2026 H1,Securities and futures,Complaints closed,Complaints closed > 8 weeks,219
+2026 H1,Securities and futures,Complaints closed,Complaints closed within 3 days,847
+2026 H1,Securities and futures,Complaints opened,Total,2036
+2026 H1,Securities and futures,Complaints upheld,Total complaints upheld,437
+2026 H1,Securities and futures,Redress paid,Total redress paid for complaints not upheld,186652
+2026 H1,Securities and futures,Redress paid,Total redress paid for upheld complaints,419235

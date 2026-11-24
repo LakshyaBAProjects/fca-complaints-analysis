@@ -1,0 +1,2366 @@
+{
+ "us01_market_trend": [
+  {
+   "half_year": "2021 H2",
+   "opened": 1884224,
+   "closed": 1906156,
+   "pct_within_3d": 48.9,
+   "pct_over_8w": 6.3,
+   "pct_upheld": 58.9
+  },
+  {
+   "half_year": "2022 H1",
+   "opened": 1926711,
+   "closed": 1911879,
+   "pct_within_3d": 51.0,
+   "pct_over_8w": 5.3,
+   "pct_upheld": 61.3
+  },
+  {
+   "half_year": "2022 H2",
+   "opened": 1801735,
+   "closed": 1762493,
+   "pct_within_3d": 46.4,
+   "pct_over_8w": 5.9,
+   "pct_upheld": 60.3
+  },
+  {
+   "half_year": "2023 H1",
+   "opened": 1885531,
+   "closed": 1897806,
+   "pct_within_3d": 45.5,
+   "pct_over_8w": 7.6,
+   "pct_upheld": 60.7
+  },
+  {
+   "half_year": "2023 H2",
+   "opened": 1939204,
+   "closed": 1908400,
+   "pct_within_3d": 46.0,
+   "pct_over_8w": 5.9,
+   "pct_upheld": 57.0
+  },
+  {
+   "half_year": "2024 H1",
+   "opened": 1864666,
+   "closed": 1868099,
+   "pct_within_3d": 43.4,
+   "pct_over_8w": 6.9,
+   "pct_upheld": 56.7
+  },
+  {
+   "half_year": "2024 H2",
+   "opened": 1784397,
+   "closed": 1783402,
+   "pct_within_3d": 44.7,
+   "pct_over_8w": 5.3,
+   "pct_upheld": 56.6
+  },
+  {
+   "half_year": "2025 H1",
+   "opened": 1828546,
+   "closed": 1823850,
+   "pct_within_3d": 45.4,
+   "pct_over_8w": 5.9,
+   "pct_upheld": 57.9
+  },
+  {
+   "half_year": "2025 H2",
+   "opened": 1741337,
+   "closed": 1721028,
+   "pct_within_3d": 44.8,
+   "pct_over_8w": 5.6,
+   "pct_upheld": 55.5
+  },
+  {
+   "half_year": "2026 H1",
+   "opened": 1851357,
+   "closed": 1832014,
+   "pct_within_3d": 44.7,
+   "pct_over_8w": 5.5,
+   "pct_upheld": 54.7
+  }
+ ],
+ "us02_closing_mix_firm_type": [
+  {
+   "firm_type": "Bank and Building society",
+   "closed": 879020,
+   "pct_within_3d": 51.2,
+   "pct_3d_to_8w": 42.8,
+   "pct_over_8w": 6.1
+  },
+  {
+   "firm_type": "Other",
+   "closed": 444632,
+   "pct_within_3d": 38.1,
+   "pct_3d_to_8w": 58.1,
+   "pct_over_8w": 3.9
+  },
+  {
+   "firm_type": "General insurance Intermediary",
+   "closed": 330072,
+   "pct_within_3d": 47.6,
+   "pct_3d_to_8w": 48.6,
+   "pct_over_8w": 3.8
+  },
+  {
+   "firm_type": "Life insurer",
+   "closed": 107311,
+   "pct_within_3d": 27.1,
+   "pct_3d_to_8w": 62.8,
+   "pct_over_8w": 10.1
+  },
+  {
+   "firm_type": "Investment management",
+   "closed": 44556,
+   "pct_within_3d": 22.5,
+   "pct_3d_to_8w": 66.5,
+   "pct_over_8w": 11.0
+  },
+  {
+   "firm_type": "Mortgage business",
+   "closed": 15056,
+   "pct_within_3d": 20.9,
+   "pct_3d_to_8w": 74.4,
+   "pct_over_8w": 4.7
+  },
+  {
+   "firm_type": "Personal Investment",
+   "closed": 9714,
+   "pct_within_3d": 7.3,
+   "pct_3d_to_8w": 80.0,
+   "pct_over_8w": 12.7
+  },
+  {
+   "firm_type": "Securities and futures",
+   "closed": 1653,
+   "pct_within_3d": 51.2,
+   "pct_3d_to_8w": 35.5,
+   "pct_over_8w": 13.2
+  }
+ ],
+ "us03_product_group_comparison": [
+  {
+   "product_group": "Banking and credit cards",
+   "opened": 898877,
+   "closed": 897618,
+   "pct_upheld": 52.9,
+   "pct_within_3d": 49.7,
+   "pct_over_8w": 6.0
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "opened": 722974,
+   "closed": 710935,
+   "pct_upheld": 55.5,
+   "pct_within_3d": 43.9,
+   "pct_over_8w": 4.1
+  },
+  {
+   "product_group": "Decumulation & pensions",
+   "opened": 88701,
+   "closed": 86647,
+   "pct_upheld": 70.4,
+   "pct_within_3d": 21.5,
+   "pct_over_8w": 12.7
+  },
+  {
+   "product_group": "Home finance",
+   "opened": 72870,
+   "closed": 72681,
+   "pct_upheld": 54.9,
+   "pct_within_3d": 35.9,
+   "pct_over_8w": 3.4
+  },
+  {
+   "product_group": "Investments",
+   "opened": 67935,
+   "closed": 64133,
+   "pct_upheld": 51.1,
+   "pct_within_3d": 25.6,
+   "pct_over_8w": 7.6
+  }
+ ],
+ "us04_top_products_change": [
+  {
+   "product_group": "Banking and credit cards",
+   "product": "Current accounts",
+   "opened_2026h1": 525653,
+   "opened_2025h2": 492149,
+   "pct_change": 6.8,
+   "per_1000_products": 3.8
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Motor & transport",
+   "opened_2026h1": 237421,
+   "opened_2025h2": 215708,
+   "pct_change": 10.1,
+   "per_1000_products": 3.56
+  },
+  {
+   "product_group": "Banking and credit cards",
+   "product": "Credit cards",
+   "opened_2026h1": 219131,
+   "opened_2025h2": 218456,
+   "pct_change": 0.3,
+   "per_1000_products": 3.39
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Other general insurance",
+   "opened_2026h1": 116937,
+   "opened_2025h2": 111907,
+   "pct_change": 4.5,
+   "per_1000_products": 1.8
+  },
+  {
+   "product_group": "Banking and credit cards",
+   "product": "Savings (including ISAs)",
+   "opened_2026h1": 87204,
+   "opened_2025h2": 82466,
+   "pct_change": 5.7,
+   "per_1000_products": 0.6
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Property",
+   "opened_2026h1": 85527,
+   "opened_2025h2": 88861,
+   "pct_change": -3.8,
+   "per_1000_products": 2.25
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Warranty",
+   "opened_2026h1": 78119,
+   "opened_2025h2": 61571,
+   "pct_change": 26.9,
+   "per_1000_products": 3.51
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Medical/health",
+   "opened_2026h1": 74140,
+   "opened_2025h2": 70619,
+   "pct_change": 5.0,
+   "per_1000_products": 7.06
+  },
+  {
+   "product_group": "Home finance",
+   "product": "Other regulated home finance products",
+   "opened_2026h1": 55889,
+   "opened_2025h2": 58073,
+   "pct_change": -3.8,
+   "per_1000_products": 6.21
+  },
+  {
+   "product_group": "Decumulation & pensions",
+   "product": "Non-workplace personal pensions  (e.g. SIPPs, SHPs, PPPs)",
+   "opened_2026h1": 52473,
+   "opened_2025h2": 49096,
+   "pct_change": 6.9,
+   "per_1000_products": 3.92
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Travel",
+   "opened_2026h1": 42215,
+   "opened_2025h2": 33406,
+   "pct_change": 26.4,
+   "per_1000_products": 0.97
+  },
+  {
+   "product_group": "Insurance & pure protection",
+   "product": "Whole of life/term assurance/critical illness",
+   "opened_2026h1": 26862,
+   "opened_2025h2": 23955,
+   "pct_change": 12.1,
+   "per_1000_products": 1.12
+  },
+  {
+   "product_group": "Banking and credit cards",
+   "product": "Overdrafts",
+   "opened_2026h1": 26629,
+   "opened_2025h2": 26456,
+   "pct_change": 0.7,
+   "per_1000_products": 0.51
+  },
+  {
+   "product_group": "Investments",
+   "product": "ISAs (where investment held)",
+   "opened_2026h1": 23763,
+   "opened_2025h2": 18464,
+   "pct_change": 28.7,
+   "per_1000_products": 1.65
+  },
+  {
+   "product_group": "Banking and credit cards",
+   "product": "Other banking - Please provide details below",
+   "opened_2026h1": 21464,
+   "opened_2025h2": 23166,
+   "pct_change": -7.3,
+   "per_1000_products": 2.3
+  }
+ ],
+ "us05_redress_trend": [
+  {
+   "half_year": "2021 H2",
+   "redress_upheld_gbp": 253482730,
+   "redress_not_upheld_gbp": 41447772,
+   "upheld": 1122266,
+   "avg_redress_per_upheld_gbp": 226.0
+  },
+  {
+   "half_year": "2022 H1",
+   "redress_upheld_gbp": 268759650,
+   "redress_not_upheld_gbp": 35864547,
+   "upheld": 1171449,
+   "avg_redress_per_upheld_gbp": 229.0
+  },
+  {
+   "half_year": "2022 H2",
+   "redress_upheld_gbp": 198724750,
+   "redress_not_upheld_gbp": 29654774,
+   "upheld": 1062060,
+   "avg_redress_per_upheld_gbp": 187.0
+  },
+  {
+   "half_year": "2023 H1",
+   "redress_upheld_gbp": 210932407,
+   "redress_not_upheld_gbp": 25566757,
+   "upheld": 1152442,
+   "avg_redress_per_upheld_gbp": 183.0
+  },
+  {
+   "half_year": "2023 H2",
+   "redress_upheld_gbp": 221752582,
+   "redress_not_upheld_gbp": 39303639,
+   "upheld": 1087858,
+   "avg_redress_per_upheld_gbp": 204.0
+  },
+  {
+   "half_year": "2024 H1",
+   "redress_upheld_gbp": 213323590,
+   "redress_not_upheld_gbp": 29863166,
+   "upheld": 1059574,
+   "avg_redress_per_upheld_gbp": 201.0
+  },
+  {
+   "half_year": "2024 H2",
+   "redress_upheld_gbp": 208900180,
+   "redress_not_upheld_gbp": 26975128,
+   "upheld": 1009922,
+   "avg_redress_per_upheld_gbp": 207.0
+  },
+  {
+   "half_year": "2025 H1",
+   "redress_upheld_gbp": 251652975,
+   "redress_not_upheld_gbp": 32006319,
+   "upheld": 1055705,
+   "avg_redress_per_upheld_gbp": 238.0
+  },
+  {
+   "half_year": "2025 H2",
+   "redress_upheld_gbp": 205689969,
+   "redress_not_upheld_gbp": 30072906,
+   "upheld": 955928,
+   "avg_redress_per_upheld_gbp": 215.0
+  },
+  {
+   "half_year": "2026 H1",
+   "redress_upheld_gbp": 205167780,
+   "redress_not_upheld_gbp": 34821955,
+   "upheld": 1003011,
+   "avg_redress_per_upheld_gbp": 205.0
+  }
+ ],
+ "us06_firm_benchmark": [
+  {
+   "firm_label": "Firm 01",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 118861.0,
+   "pct_within_3d": 55.3,
+   "pct_over_8w": 13.3,
+   "pct_upheld": 66.1
+  },
+  {
+   "firm_label": "Firm 02",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 101586.0,
+   "pct_within_3d": 48.3,
+   "pct_over_8w": 18.1,
+   "pct_upheld": 55.3
+  },
+  {
+   "firm_label": "Firm 03",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 100156.0,
+   "pct_within_3d": 53.0,
+   "pct_over_8w": 0.5,
+   "pct_upheld": 55.2
+  },
+  {
+   "firm_label": "Firm 04",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 90156.0,
+   "pct_within_3d": 56.4,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 58.1
+  },
+  {
+   "firm_label": "Firm 05",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 89670.0,
+   "pct_within_3d": 52.8,
+   "pct_over_8w": 12.5,
+   "pct_upheld": 63.6
+  },
+  {
+   "firm_label": "Firm 06",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 76912.0,
+   "pct_within_3d": 57.5,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 59.1
+  },
+  {
+   "firm_label": "Firm 07",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 72330.0,
+   "pct_within_3d": 68.6,
+   "pct_over_8w": 0.7,
+   "pct_upheld": 54.3
+  },
+  {
+   "firm_label": "Firm 08",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 71014.0,
+   "pct_within_3d": 35.9,
+   "pct_over_8w": 2.1,
+   "pct_upheld": 24.0
+  },
+  {
+   "firm_label": "Firm 09",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 64093.0,
+   "pct_within_3d": 42.1,
+   "pct_over_8w": 6.4,
+   "pct_upheld": 64.5
+  },
+  {
+   "firm_label": "Firm 10",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 60615.0,
+   "pct_within_3d": 54.7,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 48.1
+  },
+  {
+   "firm_label": "Firm 11",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 53482.0,
+   "pct_within_3d": 37.4,
+   "pct_over_8w": 2.3,
+   "pct_upheld": 56.2
+  },
+  {
+   "firm_label": "Firm 12",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 48455.0,
+   "pct_within_3d": 61.2,
+   "pct_over_8w": 8.1,
+   "pct_upheld": 93.5
+  },
+  {
+   "firm_label": "Firm 13",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 37639.0,
+   "pct_within_3d": 44.4,
+   "pct_over_8w": 4.1,
+   "pct_upheld": 63.8
+  },
+  {
+   "firm_label": "Firm 14",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 31064.0,
+   "pct_within_3d": 24.1,
+   "pct_over_8w": 12.9,
+   "pct_upheld": 71.9
+  },
+  {
+   "firm_label": "Firm 15",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 30123.0,
+   "pct_within_3d": 56.1,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 52.6
+  },
+  {
+   "firm_label": "Firm 16",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 28368.0,
+   "pct_within_3d": 55.1,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 59.7
+  },
+  {
+   "firm_label": "Firm 17",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 26813.0,
+   "pct_within_3d": 24.5,
+   "pct_over_8w": 1.1,
+   "pct_upheld": 39.9
+  },
+  {
+   "firm_label": "Firm 18",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 20992.0,
+   "pct_within_3d": 29.9,
+   "pct_over_8w": 3.8,
+   "pct_upheld": 52.7
+  },
+  {
+   "firm_label": "Firm 19",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 20483.0,
+   "pct_within_3d": 51.9,
+   "pct_over_8w": 1.3,
+   "pct_upheld": 52.2
+  },
+  {
+   "firm_label": "Firm 20",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 20019.0,
+   "pct_within_3d": 12.6,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 31.6
+  },
+  {
+   "firm_label": "Firm 21",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 19880.0,
+   "pct_within_3d": 49.3,
+   "pct_over_8w": 15.9,
+   "pct_upheld": 58.5
+  },
+  {
+   "firm_label": "Firm 22",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 18093.0,
+   "pct_within_3d": 30.7,
+   "pct_over_8w": 7.7,
+   "pct_upheld": 59.3
+  },
+  {
+   "firm_label": "Firm 23",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 15953.0,
+   "pct_within_3d": 30.0,
+   "pct_over_8w": 10.2,
+   "pct_upheld": 76.9
+  },
+  {
+   "firm_label": "Firm 24",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 14362.0,
+   "pct_within_3d": 18.8,
+   "pct_over_8w": 0.5,
+   "pct_upheld": 44.5
+  },
+  {
+   "firm_label": "Firm 25",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 13900.0,
+   "pct_within_3d": 58.4,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 54.5
+  },
+  {
+   "firm_label": "Firm 26",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 13445.0,
+   "pct_within_3d": 37.5,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 22.3
+  },
+  {
+   "firm_label": "Firm 27",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 12496.0,
+   "pct_within_3d": 45.3,
+   "pct_over_8w": 5.5,
+   "pct_upheld": 67.3
+  },
+  {
+   "firm_label": "Firm 28",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 11981.0,
+   "pct_within_3d": 48.4,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 41.3
+  },
+  {
+   "firm_label": "Firm 29",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 11671.0,
+   "pct_within_3d": 37.6,
+   "pct_over_8w": 16.4,
+   "pct_upheld": 56.0
+  },
+  {
+   "firm_label": "Firm 30",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 11484.0,
+   "pct_within_3d": 70.1,
+   "pct_over_8w": 2.7,
+   "pct_upheld": 55.7
+  },
+  {
+   "firm_label": "Firm 31",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "no",
+   "closed": 10995.0,
+   "pct_within_3d": 29.2,
+   "pct_over_8w": 2.3,
+   "pct_upheld": 30.3
+  },
+  {
+   "firm_label": "Firm 32",
+   "size_band": "Large (10k+)",
+   "joint_reporting": "yes",
+   "closed": 10250.0,
+   "pct_within_3d": 47.5,
+   "pct_over_8w": 4.8,
+   "pct_upheld": 52.0
+  },
+  {
+   "firm_label": "Firm 33",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 9858.0,
+   "pct_within_3d": 66.0,
+   "pct_over_8w": 2.1,
+   "pct_upheld": 63.6
+  },
+  {
+   "firm_label": "Firm 34",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 9685.0,
+   "pct_within_3d": 59.1,
+   "pct_over_8w": 2.3,
+   "pct_upheld": 39.3
+  },
+  {
+   "firm_label": "Firm 35",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 9638.0,
+   "pct_within_3d": 21.3,
+   "pct_over_8w": 1.2,
+   "pct_upheld": 48.3
+  },
+  {
+   "firm_label": "Firm 36",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 8931.0,
+   "pct_within_3d": 26.6,
+   "pct_over_8w": 7.2,
+   "pct_upheld": 64.6
+  },
+  {
+   "firm_label": "Firm 37",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 8865.0,
+   "pct_within_3d": 46.9,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 45.5
+  },
+  {
+   "firm_label": "Firm 38",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 8489.0,
+   "pct_within_3d": 19.6,
+   "pct_over_8w": 1.1,
+   "pct_upheld": 77.5
+  },
+  {
+   "firm_label": "Firm 39",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 8474.0,
+   "pct_within_3d": 54.6,
+   "pct_over_8w": 12.0,
+   "pct_upheld": 54.4
+  },
+  {
+   "firm_label": "Firm 40",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 8429.0,
+   "pct_within_3d": 24.9,
+   "pct_over_8w": 4.4,
+   "pct_upheld": 87.0
+  },
+  {
+   "firm_label": "Firm 41",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 8372.0,
+   "pct_within_3d": 32.6,
+   "pct_over_8w": 7.0,
+   "pct_upheld": 42.3
+  },
+  {
+   "firm_label": "Firm 42",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 7790.0,
+   "pct_within_3d": 66.9,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 40.4
+  },
+  {
+   "firm_label": "Firm 43",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 7162.0,
+   "pct_within_3d": 53.6,
+   "pct_over_8w": 7.8,
+   "pct_upheld": 53.1
+  },
+  {
+   "firm_label": "Firm 44",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 7021.0,
+   "pct_within_3d": 69.2,
+   "pct_over_8w": 1.5,
+   "pct_upheld": 52.1
+  },
+  {
+   "firm_label": "Firm 45",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 6585.0,
+   "pct_within_3d": 75.6,
+   "pct_over_8w": 1.0,
+   "pct_upheld": 39.2
+  },
+  {
+   "firm_label": "Firm 46",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 6375.0,
+   "pct_within_3d": 24.6,
+   "pct_over_8w": 26.0,
+   "pct_upheld": 66.2
+  },
+  {
+   "firm_label": "Firm 47",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 6366.0,
+   "pct_within_3d": 49.9,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 46.4
+  },
+  {
+   "firm_label": "Firm 48",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 6164.0,
+   "pct_within_3d": 25.3,
+   "pct_over_8w": 3.8,
+   "pct_upheld": 39.6
+  },
+  {
+   "firm_label": "Firm 49",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 6073.0,
+   "pct_within_3d": 19.0,
+   "pct_over_8w": 9.9,
+   "pct_upheld": 81.5
+  },
+  {
+   "firm_label": "Firm 50",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 5859.0,
+   "pct_within_3d": 20.6,
+   "pct_over_8w": 10.6,
+   "pct_upheld": 78.3
+  },
+  {
+   "firm_label": "Firm 51",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 5855.0,
+   "pct_within_3d": 55.1,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 41.5
+  },
+  {
+   "firm_label": "Firm 52",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 5354.0,
+   "pct_within_3d": 31.0,
+   "pct_over_8w": 5.5,
+   "pct_upheld": 54.1
+  },
+  {
+   "firm_label": "Firm 53",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 5093.0,
+   "pct_within_3d": 36.4,
+   "pct_over_8w": 4.4,
+   "pct_upheld": 61.4
+  },
+  {
+   "firm_label": "Firm 54",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 5013.0,
+   "pct_within_3d": 32.6,
+   "pct_over_8w": 16.9,
+   "pct_upheld": 81.4
+  },
+  {
+   "firm_label": "Firm 55",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4928.0,
+   "pct_within_3d": 18.7,
+   "pct_over_8w": 1.8,
+   "pct_upheld": 58.3
+  },
+  {
+   "firm_label": "Firm 56",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4863.0,
+   "pct_within_3d": 58.3,
+   "pct_over_8w": 0.5,
+   "pct_upheld": 34.6
+  },
+  {
+   "firm_label": "Firm 57",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4768.0,
+   "pct_within_3d": 7.4,
+   "pct_over_8w": 14.8,
+   "pct_upheld": 49.5
+  },
+  {
+   "firm_label": "Firm 58",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4676.0,
+   "pct_within_3d": 25.7,
+   "pct_over_8w": 5.9,
+   "pct_upheld": 55.8
+  },
+  {
+   "firm_label": "Firm 59",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 4665.0,
+   "pct_within_3d": 11.6,
+   "pct_over_8w": 5.6,
+   "pct_upheld": 52.1
+  },
+  {
+   "firm_label": "Firm 60",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4586.0,
+   "pct_within_3d": 0.4,
+   "pct_over_8w": 10.9,
+   "pct_upheld": 37.5
+  },
+  {
+   "firm_label": "Firm 61",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4461.0,
+   "pct_within_3d": 38.7,
+   "pct_over_8w": 3.4,
+   "pct_upheld": 46.2
+  },
+  {
+   "firm_label": "Firm 62",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4366.0,
+   "pct_within_3d": 19.7,
+   "pct_over_8w": 0.7,
+   "pct_upheld": 62.5
+  },
+  {
+   "firm_label": "Firm 63",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 4316.0,
+   "pct_within_3d": 60.4,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 57.7
+  },
+  {
+   "firm_label": "Firm 64",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4212.0,
+   "pct_within_3d": 23.0,
+   "pct_over_8w": 5.3,
+   "pct_upheld": 43.5
+  },
+  {
+   "firm_label": "Firm 65",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4206.0,
+   "pct_within_3d": 27.2,
+   "pct_over_8w": 9.6,
+   "pct_upheld": 57.8
+  },
+  {
+   "firm_label": "Firm 66",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4145.0,
+   "pct_within_3d": 26.6,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 45.1
+  },
+  {
+   "firm_label": "Firm 67",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 4072.0,
+   "pct_within_3d": 60.8,
+   "pct_over_8w": 0.9,
+   "pct_upheld": 72.7
+  },
+  {
+   "firm_label": "Firm 68",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3994.0,
+   "pct_within_3d": 9.0,
+   "pct_over_8w": 13.2,
+   "pct_upheld": 59.7
+  },
+  {
+   "firm_label": "Firm 69",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3984.0,
+   "pct_within_3d": 33.6,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 35.3
+  },
+  {
+   "firm_label": "Firm 70",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3799.0,
+   "pct_within_3d": 40.1,
+   "pct_over_8w": 5.2,
+   "pct_upheld": 65.2
+  },
+  {
+   "firm_label": "Firm 71",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3776.0,
+   "pct_within_3d": 73.8,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 68.6
+  },
+  {
+   "firm_label": "Firm 72",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3749.0,
+   "pct_within_3d": 8.8,
+   "pct_over_8w": 21.0,
+   "pct_upheld": 51.1
+  },
+  {
+   "firm_label": "Firm 73",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3551.0,
+   "pct_within_3d": 14.4,
+   "pct_over_8w": 6.0,
+   "pct_upheld": 62.8
+  },
+  {
+   "firm_label": "Firm 74",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3138.0,
+   "pct_within_3d": 73.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 10.4
+  },
+  {
+   "firm_label": "Firm 75",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3091.0,
+   "pct_within_3d": 22.0,
+   "pct_over_8w": 1.4,
+   "pct_upheld": 61.9
+  },
+  {
+   "firm_label": "Firm 76",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 3035.0,
+   "pct_within_3d": 45.1,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 27.7
+  },
+  {
+   "firm_label": "Firm 77",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 3016.0,
+   "pct_within_3d": 15.2,
+   "pct_over_8w": 1.1,
+   "pct_upheld": 80.1
+  },
+  {
+   "firm_label": "Firm 78",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2978.0,
+   "pct_within_3d": 17.2,
+   "pct_over_8w": 1.2,
+   "pct_upheld": 53.3
+  },
+  {
+   "firm_label": "Firm 79",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2972.0,
+   "pct_within_3d": 26.0,
+   "pct_over_8w": 3.1,
+   "pct_upheld": 32.0
+  },
+  {
+   "firm_label": "Firm 80",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2950.0,
+   "pct_within_3d": 23.1,
+   "pct_over_8w": 2.3,
+   "pct_upheld": 51.3
+  },
+  {
+   "firm_label": "Firm 81",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2947.0,
+   "pct_within_3d": 26.2,
+   "pct_over_8w": 14.7,
+   "pct_upheld": 47.7
+  },
+  {
+   "firm_label": "Firm 82",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2733.0,
+   "pct_within_3d": 61.8,
+   "pct_over_8w": 1.2,
+   "pct_upheld": 49.1
+  },
+  {
+   "firm_label": "Firm 83",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 2676.0,
+   "pct_within_3d": 13.8,
+   "pct_over_8w": 9.0,
+   "pct_upheld": 53.9
+  },
+  {
+   "firm_label": "Firm 84",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2672.0,
+   "pct_within_3d": 24.2,
+   "pct_over_8w": 0.6,
+   "pct_upheld": 76.1
+  },
+  {
+   "firm_label": "Firm 85",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2643.0,
+   "pct_within_3d": 20.3,
+   "pct_over_8w": 9.8,
+   "pct_upheld": 46.3
+  },
+  {
+   "firm_label": "Firm 86",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2633.0,
+   "pct_within_3d": 58.0,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 61.5
+  },
+  {
+   "firm_label": "Firm 87",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2570.0,
+   "pct_within_3d": 27.7,
+   "pct_over_8w": 1.5,
+   "pct_upheld": 58.7
+  },
+  {
+   "firm_label": "Firm 88",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 2542.0,
+   "pct_within_3d": 43.5,
+   "pct_over_8w": 3.3,
+   "pct_upheld": 34.9
+  },
+  {
+   "firm_label": "Firm 89",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2421.0,
+   "pct_within_3d": 94.2,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 20.7
+  },
+  {
+   "firm_label": "Firm 90",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2381.0,
+   "pct_within_3d": 38.1,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 29.7
+  },
+  {
+   "firm_label": "Firm 91",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2338.0,
+   "pct_within_3d": 63.1,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 5.1
+  },
+  {
+   "firm_label": "Firm 92",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2327.0,
+   "pct_within_3d": 53.2,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 21.6
+  },
+  {
+   "firm_label": "Firm 93",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 2325.0,
+   "pct_within_3d": 9.6,
+   "pct_over_8w": 1.7,
+   "pct_upheld": 33.0
+  },
+  {
+   "firm_label": "Firm 94",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2256.0,
+   "pct_within_3d": 25.9,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 43.1
+  },
+  {
+   "firm_label": "Firm 95",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2184.0,
+   "pct_within_3d": 29.3,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 57.1
+  },
+  {
+   "firm_label": "Firm 96",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2167.0,
+   "pct_within_3d": 63.3,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 40.7
+  },
+  {
+   "firm_label": "Firm 97",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 2024.0,
+   "pct_within_3d": 4.2,
+   "pct_over_8w": 1.6,
+   "pct_upheld": 77.0
+  },
+  {
+   "firm_label": "Firm 98",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1999.0,
+   "pct_within_3d": 25.6,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 56.7
+  },
+  {
+   "firm_label": "Firm 99",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1991.0,
+   "pct_within_3d": 18.2,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 53.4
+  },
+  {
+   "firm_label": "Firm 100",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1987.0,
+   "pct_within_3d": 10.0,
+   "pct_over_8w": 4.6,
+   "pct_upheld": 44.5
+  },
+  {
+   "firm_label": "Firm 101",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1957.0,
+   "pct_within_3d": 63.7,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 66.0
+  },
+  {
+   "firm_label": "Firm 102",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1924.0,
+   "pct_within_3d": 61.4,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 21.6
+  },
+  {
+   "firm_label": "Firm 103",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1813.0,
+   "pct_within_3d": 28.2,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 38.9
+  },
+  {
+   "firm_label": "Firm 104",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1796.0,
+   "pct_within_3d": 38.9,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 42.6
+  },
+  {
+   "firm_label": "Firm 105",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1764.0,
+   "pct_within_3d": 8.3,
+   "pct_over_8w": 3.5,
+   "pct_upheld": 18.0
+  },
+  {
+   "firm_label": "Firm 106",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1753.0,
+   "pct_within_3d": 77.2,
+   "pct_over_8w": 3.3,
+   "pct_upheld": 56.0
+  },
+  {
+   "firm_label": "Firm 107",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1719.0,
+   "pct_within_3d": 43.3,
+   "pct_over_8w": 2.7,
+   "pct_upheld": 45.5
+  },
+  {
+   "firm_label": "Firm 108",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1663.0,
+   "pct_within_3d": 71.6,
+   "pct_over_8w": 14.4,
+   "pct_upheld": 33.2
+  },
+  {
+   "firm_label": "Firm 109",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1609.0,
+   "pct_within_3d": 55.6,
+   "pct_over_8w": 0.7,
+   "pct_upheld": 25.0
+  },
+  {
+   "firm_label": "Firm 110",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1596.0,
+   "pct_within_3d": 52.1,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 36.3
+  },
+  {
+   "firm_label": "Firm 111",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1566.0,
+   "pct_within_3d": 41.3,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 33.4
+  },
+  {
+   "firm_label": "Firm 112",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1519.0,
+   "pct_within_3d": 26.2,
+   "pct_over_8w": 0.7,
+   "pct_upheld": 12.7
+  },
+  {
+   "firm_label": "Firm 113",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1514.0,
+   "pct_within_3d": 4.3,
+   "pct_over_8w": 54.3,
+   "pct_upheld": 58.7
+  },
+  {
+   "firm_label": "Firm 114",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1501.0,
+   "pct_within_3d": 2.4,
+   "pct_over_8w": 26.8,
+   "pct_upheld": 81.7
+  },
+  {
+   "firm_label": "Firm 115",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1496.0,
+   "pct_within_3d": 32.4,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 43.7
+  },
+  {
+   "firm_label": "Firm 116",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1490.0,
+   "pct_within_3d": 49.9,
+   "pct_over_8w": 19.3,
+   "pct_upheld": 70.9
+  },
+  {
+   "firm_label": "Firm 117",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1490.0,
+   "pct_within_3d": 26.6,
+   "pct_over_8w": 0.7,
+   "pct_upheld": 52.1
+  },
+  {
+   "firm_label": "Firm 118",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1394.0,
+   "pct_within_3d": 70.9,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 41.0
+  },
+  {
+   "firm_label": "Firm 119",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1367.0,
+   "pct_within_3d": 10.8,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 46.0
+  },
+  {
+   "firm_label": "Firm 120",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1293.0,
+   "pct_within_3d": 40.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 35.6
+  },
+  {
+   "firm_label": "Firm 121",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1254.0,
+   "pct_within_3d": 12.4,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 74.0
+  },
+  {
+   "firm_label": "Firm 122",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1235.0,
+   "pct_within_3d": 32.2,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 20.1
+  },
+  {
+   "firm_label": "Firm 123",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1225.0,
+   "pct_within_3d": 12.2,
+   "pct_over_8w": 2.1,
+   "pct_upheld": 34.5
+  },
+  {
+   "firm_label": "Firm 124",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1225.0,
+   "pct_within_3d": 52.2,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 58.5
+  },
+  {
+   "firm_label": "Firm 125",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1219.0,
+   "pct_within_3d": 86.1,
+   "pct_over_8w": 1.4,
+   "pct_upheld": 5.0
+  },
+  {
+   "firm_label": "Firm 126",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1180.0,
+   "pct_within_3d": 30.1,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 57.0
+  },
+  {
+   "firm_label": "Firm 127",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1176.0,
+   "pct_within_3d": 46.3,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 41.8
+  },
+  {
+   "firm_label": "Firm 128",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1144.0,
+   "pct_within_3d": 34.4,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 41.4
+  },
+  {
+   "firm_label": "Firm 129",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "yes",
+   "closed": 1141.0,
+   "pct_within_3d": 18.0,
+   "pct_over_8w": 1.8,
+   "pct_upheld": 35.7
+  },
+  {
+   "firm_label": "Firm 130",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1113.0,
+   "pct_within_3d": 1.1,
+   "pct_over_8w": 62.7,
+   "pct_upheld": 93.7
+  },
+  {
+   "firm_label": "Firm 131",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1102.0,
+   "pct_within_3d": 10.2,
+   "pct_over_8w": 1.5,
+   "pct_upheld": 46.6
+  },
+  {
+   "firm_label": "Firm 132",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1090.0,
+   "pct_within_3d": 34.0,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 40.4
+  },
+  {
+   "firm_label": "Firm 133",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1084.0,
+   "pct_within_3d": 31.6,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 34.1
+  },
+  {
+   "firm_label": "Firm 134",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1082.0,
+   "pct_within_3d": 44.1,
+   "pct_over_8w": 1.3,
+   "pct_upheld": 29.8
+  },
+  {
+   "firm_label": "Firm 135",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1081.0,
+   "pct_within_3d": 10.4,
+   "pct_over_8w": 1.9,
+   "pct_upheld": 70.6
+  },
+  {
+   "firm_label": "Firm 136",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1042.0,
+   "pct_within_3d": 4.0,
+   "pct_over_8w": 11.7,
+   "pct_upheld": 55.4
+  },
+  {
+   "firm_label": "Firm 137",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1042.0,
+   "pct_within_3d": 0.8,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 69.5
+  },
+  {
+   "firm_label": "Firm 138",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1037.0,
+   "pct_within_3d": 4.6,
+   "pct_over_8w": 37.7,
+   "pct_upheld": 39.6
+  },
+  {
+   "firm_label": "Firm 139",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1036.0,
+   "pct_within_3d": 26.6,
+   "pct_over_8w": 12.5,
+   "pct_upheld": 50.6
+  },
+  {
+   "firm_label": "Firm 140",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1035.0,
+   "pct_within_3d": 77.4,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 40.3
+  },
+  {
+   "firm_label": "Firm 141",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1022.0,
+   "pct_within_3d": 5.8,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 49.6
+  },
+  {
+   "firm_label": "Firm 142",
+   "size_band": "Medium (1k-10k)",
+   "joint_reporting": "no",
+   "closed": 1002.0,
+   "pct_within_3d": 20.7,
+   "pct_over_8w": 3.9,
+   "pct_upheld": 64.7
+  },
+  {
+   "firm_label": "Firm 143",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 997.0,
+   "pct_within_3d": 36.9,
+   "pct_over_8w": 3.8,
+   "pct_upheld": 56.4
+  },
+  {
+   "firm_label": "Firm 144",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 928.0,
+   "pct_within_3d": 66.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 12.8
+  },
+  {
+   "firm_label": "Firm 145",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 920.0,
+   "pct_within_3d": 12.3,
+   "pct_over_8w": 0.6,
+   "pct_upheld": 47.3
+  },
+  {
+   "firm_label": "Firm 146",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "yes",
+   "closed": 914.0,
+   "pct_within_3d": 24.1,
+   "pct_over_8w": 2.0,
+   "pct_upheld": 64.1
+  },
+  {
+   "firm_label": "Firm 147",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 902.0,
+   "pct_within_3d": 0.8,
+   "pct_over_8w": 4.6,
+   "pct_upheld": 66.4
+  },
+  {
+   "firm_label": "Firm 148",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "yes",
+   "closed": 901.0,
+   "pct_within_3d": 57.8,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 20.8
+  },
+  {
+   "firm_label": "Firm 149",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 895.0,
+   "pct_within_3d": 22.2,
+   "pct_over_8w": 0.5,
+   "pct_upheld": 50.3
+  },
+  {
+   "firm_label": "Firm 150",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 894.0,
+   "pct_within_3d": 29.0,
+   "pct_over_8w": 2.6,
+   "pct_upheld": 45.5
+  },
+  {
+   "firm_label": "Firm 151",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 888.0,
+   "pct_within_3d": 47.5,
+   "pct_over_8w": 0.4,
+   "pct_upheld": 17.8
+  },
+  {
+   "firm_label": "Firm 152",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 879.0,
+   "pct_within_3d": 10.6,
+   "pct_over_8w": 6.8,
+   "pct_upheld": 60.0
+  },
+  {
+   "firm_label": "Firm 153",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 877.0,
+   "pct_within_3d": 29.1,
+   "pct_over_8w": 8.9,
+   "pct_upheld": 87.1
+  },
+  {
+   "firm_label": "Firm 154",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 866.0,
+   "pct_within_3d": 26.0,
+   "pct_over_8w": 27.5,
+   "pct_upheld": 41.1
+  },
+  {
+   "firm_label": "Firm 155",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 858.0,
+   "pct_within_3d": 4.4,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 38.7
+  },
+  {
+   "firm_label": "Firm 156",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 854.0,
+   "pct_within_3d": 31.4,
+   "pct_over_8w": 0.6,
+   "pct_upheld": 49.7
+  },
+  {
+   "firm_label": "Firm 157",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 843.0,
+   "pct_within_3d": 49.5,
+   "pct_over_8w": 2.0,
+   "pct_upheld": 93.5
+  },
+  {
+   "firm_label": "Firm 158",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 831.0,
+   "pct_within_3d": 1.2,
+   "pct_over_8w": 69.2,
+   "pct_upheld": 92.4
+  },
+  {
+   "firm_label": "Firm 159",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 825.0,
+   "pct_within_3d": 23.0,
+   "pct_over_8w": 1.9,
+   "pct_upheld": 34.7
+  },
+  {
+   "firm_label": "Firm 160",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 809.0,
+   "pct_within_3d": 41.8,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 45.4
+  },
+  {
+   "firm_label": "Firm 161",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 799.0,
+   "pct_within_3d": 56.3,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 35.7
+  },
+  {
+   "firm_label": "Firm 162",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 782.0,
+   "pct_within_3d": 25.6,
+   "pct_over_8w": 4.0,
+   "pct_upheld": 49.5
+  },
+  {
+   "firm_label": "Firm 163",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 775.0,
+   "pct_within_3d": 29.8,
+   "pct_over_8w": 6.3,
+   "pct_upheld": 71.0
+  },
+  {
+   "firm_label": "Firm 164",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 765.0,
+   "pct_within_3d": 31.2,
+   "pct_over_8w": 1.0,
+   "pct_upheld": 50.7
+  },
+  {
+   "firm_label": "Firm 165",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 749.0,
+   "pct_within_3d": 94.9,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 36.1
+  },
+  {
+   "firm_label": "Firm 166",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 748.0,
+   "pct_within_3d": 26.9,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 47.6
+  },
+  {
+   "firm_label": "Firm 167",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 739.0,
+   "pct_within_3d": 24.6,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 26.7
+  },
+  {
+   "firm_label": "Firm 168",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 738.0,
+   "pct_within_3d": 90.4,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 26.3
+  },
+  {
+   "firm_label": "Firm 169",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 737.0,
+   "pct_within_3d": 2.4,
+   "pct_over_8w": 16.8,
+   "pct_upheld": 54.6
+  },
+  {
+   "firm_label": "Firm 170",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "yes",
+   "closed": 724.0,
+   "pct_within_3d": 48.5,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 56.6
+  },
+  {
+   "firm_label": "Firm 171",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 717.0,
+   "pct_within_3d": 33.5,
+   "pct_over_8w": 0.1,
+   "pct_upheld": 19.3
+  },
+  {
+   "firm_label": "Firm 172",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 705.0,
+   "pct_within_3d": 45.7,
+   "pct_over_8w": 6.5,
+   "pct_upheld": 68.2
+  },
+  {
+   "firm_label": "Firm 173",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 699.0,
+   "pct_within_3d": 68.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 51.2
+  },
+  {
+   "firm_label": "Firm 174",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 697.0,
+   "pct_within_3d": 72.0,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 60.8
+  },
+  {
+   "firm_label": "Firm 175",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 693.0,
+   "pct_within_3d": 25.7,
+   "pct_over_8w": 14.6,
+   "pct_upheld": 29.4
+  },
+  {
+   "firm_label": "Firm 176",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 678.0,
+   "pct_within_3d": 47.5,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 54.6
+  },
+  {
+   "firm_label": "Firm 177",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 673.0,
+   "pct_within_3d": 15.9,
+   "pct_over_8w": 2.4,
+   "pct_upheld": 44.1
+  },
+  {
+   "firm_label": "Firm 178",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 670.0,
+   "pct_within_3d": 13.7,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 58.5
+  },
+  {
+   "firm_label": "Firm 179",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 620.0,
+   "pct_within_3d": 65.3,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 2.3
+  },
+  {
+   "firm_label": "Firm 180",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 613.0,
+   "pct_within_3d": 24.8,
+   "pct_over_8w": 6.5,
+   "pct_upheld": 43.4
+  },
+  {
+   "firm_label": "Firm 181",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 613.0,
+   "pct_within_3d": 43.6,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 38.8
+  },
+  {
+   "firm_label": "Firm 182",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 597.0,
+   "pct_within_3d": 0.8,
+   "pct_over_8w": 0.3,
+   "pct_upheld": 64.2
+  },
+  {
+   "firm_label": "Firm 183",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 593.0,
+   "pct_within_3d": 4.7,
+   "pct_over_8w": 4.4,
+   "pct_upheld": 44.4
+  },
+  {
+   "firm_label": "Firm 184",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 590.0,
+   "pct_within_3d": 4.9,
+   "pct_over_8w": 0.8,
+   "pct_upheld": 23.2
+  },
+  {
+   "firm_label": "Firm 185",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 585.0,
+   "pct_within_3d": 69.1,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 40.0
+  },
+  {
+   "firm_label": "Firm 186",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 581.0,
+   "pct_within_3d": 5.7,
+   "pct_over_8w": 0.9,
+   "pct_upheld": 40.5
+  },
+  {
+   "firm_label": "Firm 187",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 576.0,
+   "pct_within_3d": 41.8,
+   "pct_over_8w": 32.6,
+   "pct_upheld": 50.7
+  },
+  {
+   "firm_label": "Firm 188",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 574.0,
+   "pct_within_3d": 80.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 32.8
+  },
+  {
+   "firm_label": "Firm 189",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 569.0,
+   "pct_within_3d": 53.1,
+   "pct_over_8w": 1.0,
+   "pct_upheld": 61.7
+  },
+  {
+   "firm_label": "Firm 190",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 542.0,
+   "pct_within_3d": 20.3,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 3.0
+  },
+  {
+   "firm_label": "Firm 191",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 542.0,
+   "pct_within_3d": 23.4,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 30.3
+  },
+  {
+   "firm_label": "Firm 192",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "yes",
+   "closed": 541.0,
+   "pct_within_3d": 10.9,
+   "pct_over_8w": 0.6,
+   "pct_upheld": 56.8
+  },
+  {
+   "firm_label": "Firm 193",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 525.0,
+   "pct_within_3d": 10.7,
+   "pct_over_8w": 0.2,
+   "pct_upheld": 76.6
+  },
+  {
+   "firm_label": "Firm 194",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 523.0,
+   "pct_within_3d": 52.4,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 9.6
+  },
+  {
+   "firm_label": "Firm 195",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 510.0,
+   "pct_within_3d": 23.5,
+   "pct_over_8w": 9.6,
+   "pct_upheld": 61.0
+  },
+  {
+   "firm_label": "Firm 196",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 502.0,
+   "pct_within_3d": 15.5,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 74.1
+  },
+  {
+   "firm_label": "Firm 197",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 499.0,
+   "pct_within_3d": 4.8,
+   "pct_over_8w": 21.6,
+   "pct_upheld": 28.7
+  },
+  {
+   "firm_label": "Firm 198",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 477.0,
+   "pct_within_3d": 13.6,
+   "pct_over_8w": 15.7,
+   "pct_upheld": 45.5
+  },
+  {
+   "firm_label": "Firm 199",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 473.0,
+   "pct_within_3d": 27.9,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 37.4
+  },
+  {
+   "firm_label": "Firm 200",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 465.0,
+   "pct_within_3d": 1.3,
+   "pct_over_8w": 2.4,
+   "pct_upheld": 42.6
+  },
+  {
+   "firm_label": "Firm 201",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 438.0,
+   "pct_within_3d": 9.1,
+   "pct_over_8w": 8.4,
+   "pct_upheld": 57.1
+  },
+  {
+   "firm_label": "Firm 202",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 435.0,
+   "pct_within_3d": 12.4,
+   "pct_over_8w": 4.4,
+   "pct_upheld": 74.7
+  },
+  {
+   "firm_label": "Firm 203",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 427.0,
+   "pct_within_3d": 17.6,
+   "pct_over_8w": 33.7,
+   "pct_upheld": 23.9
+  },
+  {
+   "firm_label": "Firm 204",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 420.0,
+   "pct_within_3d": 17.1,
+   "pct_over_8w": 14.0,
+   "pct_upheld": 48.6
+  },
+  {
+   "firm_label": "Firm 205",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": null,
+   "closed": 386.0,
+   "pct_within_3d": 10.6,
+   "pct_over_8w": 0.5,
+   "pct_upheld": 23.1
+  },
+  {
+   "firm_label": "Firm 206",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 386.0,
+   "pct_within_3d": 6.0,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 34.7
+  },
+  {
+   "firm_label": "Firm 207",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 340.0,
+   "pct_within_3d": 39.7,
+   "pct_over_8w": 2.6,
+   "pct_upheld": 80.3
+  },
+  {
+   "firm_label": "Firm 208",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 334.0,
+   "pct_within_3d": 5.1,
+   "pct_over_8w": 0.9,
+   "pct_upheld": 30.5
+  },
+  {
+   "firm_label": "Firm 209",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 269.0,
+   "pct_within_3d": 66.9,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 48.0
+  },
+  {
+   "firm_label": "Firm 210",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 213.0,
+   "pct_within_3d": 18.8,
+   "pct_over_8w": 60.1,
+   "pct_upheld": 36.6
+  },
+  {
+   "firm_label": "Firm 211",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 200.0,
+   "pct_within_3d": 34.0,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 57.0
+  },
+  {
+   "firm_label": "Firm 212",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 186.0,
+   "pct_within_3d": 17.7,
+   "pct_over_8w": 4.3,
+   "pct_upheld": 44.6
+  },
+  {
+   "firm_label": "Firm 213",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 153.0,
+   "pct_within_3d": 85.6,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 60.8
+  },
+  {
+   "firm_label": "Firm 214",
+   "size_band": "Small (100-1k)",
+   "joint_reporting": "no",
+   "closed": 106.0,
+   "pct_within_3d": 3.8,
+   "pct_over_8w": 0.0,
+   "pct_upheld": 23.6
+  }
+ ],
+ "us07_quartile_spread": [
+  {
+   "quartile": 1,
+   "firms": 14,
+   "closed": 266778.0,
+   "pct_within_3d_weighted": 59.2,
+   "pct_upheld_weighted": 60.0
+  },
+  {
+   "quartile": 2,
+   "firms": 13,
+   "closed": 438161.0,
+   "pct_within_3d_weighted": 53.1,
+   "pct_upheld_weighted": 56.5
+  },
+  {
+   "quartile": 3,
+   "firms": 13,
+   "closed": 102088.0,
+   "pct_within_3d_weighted": 36.0,
+   "pct_upheld_weighted": 28.9
+  },
+  {
+   "quartile": 4,
+   "firms": 13,
+   "closed": 74398.0,
+   "pct_within_3d_weighted": 18.2,
+   "pct_upheld_weighted": 40.4
+  }
+ ],
+ "us08_data_coverage": [
+  {
+   "check_name": "firm-level closed / national closed (%)",
+   "value": 95.1
+  },
+  {
+   "check_name": "firm-level opened / national opened (%)",
+   "value": 94.9
+  },
+  {
+   "check_name": "firms",
+   "value": 226
+  },
+  {
+   "check_name": "groups",
+   "value": 137
+  },
+  {
+   "check_name": "joint-reporting rows",
+   "value": 19
+  },
+  {
+   "check_name": "firms reporting Jan-Jun 2026",
+   "value": 192
+  },
+  {
+   "check_name": "firms with other reporting window",
+   "value": 34
+  }
+ ]
+}

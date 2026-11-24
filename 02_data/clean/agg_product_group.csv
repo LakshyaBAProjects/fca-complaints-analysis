@@ -1,0 +1,521 @@
+half_year,product_group,variable_type,variable,volume
+2021 H2,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,390388
+2021 H2,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,30476
+2021 H2,Banking and credit cards,Complaints closed,Complaints closed within 3 days,465947
+2021 H2,Banking and credit cards,Complaints opened,Total,878796
+2021 H2,Banking and credit cards,Complaints upheld,Total complaints upheld,489480
+2021 H2,Banking and credit cards,Provision,Provision (at reporting period end date),351014835
+2021 H2,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,14378511
+2021 H2,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,93508349
+2021 H2,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,37174
+2021 H2,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,10505
+2021 H2,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,14999
+2021 H2,Decumulation & pensions,Complaints opened,Total,62464
+2021 H2,Decumulation & pensions,Complaints upheld,Total complaints upheld,43674
+2021 H2,Decumulation & pensions,Provision,Intermediation (within the reporting period),4495847
+2021 H2,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",140566
+2021 H2,Decumulation & pensions,Provision,Provision (at reporting period end date),50235938
+2021 H2,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,3237071
+2021 H2,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,33828988
+2021 H2,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,53147
+2021 H2,Home finance,Complaints closed,Complaints closed > 8 weeks,4445
+2021 H2,Home finance,Complaints closed,Complaints closed within 3 days,33753
+2021 H2,Home finance,Complaints opened,Total,90525
+2021 H2,Home finance,Complaints upheld,Total complaints upheld,52963
+2021 H2,Home finance,Provision,Intermediation (within the reporting period),4634647
+2021 H2,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",1065044
+2021 H2,Home finance,Provision,Provision (at reporting period end date),3145363405
+2021 H2,Home finance,Redress paid,Total redress paid for complaints not upheld,1150690
+2021 H2,Home finance,Redress paid,Total redress paid for upheld complaints,12499902
+2021 H2,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,340426
+2021 H2,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,65379
+2021 H2,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,403196
+2021 H2,Insurance & pure protection,Complaints opened,Total,799200
+2021 H2,Insurance & pure protection,Complaints upheld,Total complaints upheld,505070
+2021 H2,Insurance & pure protection,Provision,Intermediation (within the reporting period),33481121
+2021 H2,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",44881290
+2021 H2,Insurance & pure protection,Provision,Provision (at reporting period end date),312397904
+2021 H2,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,15781022
+2021 H2,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,97889017
+2021 H2,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,33888
+2021 H2,Investments,Complaints closed,Complaints closed > 8 weeks,8709
+2021 H2,Investments,Complaints closed,Complaints closed within 3 days,13724
+2021 H2,Investments,Complaints opened,Total,53239
+2021 H2,Investments,Complaints upheld,Total complaints upheld,31079
+2021 H2,Investments,Provision,Intermediation (within the reporting period),214457331
+2021 H2,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",723050
+2021 H2,Investments,Provision,Provision (at reporting period end date),207750015
+2021 H2,Investments,Redress paid,Total redress paid for complaints not upheld,6900478
+2021 H2,Investments,Redress paid,Total redress paid for upheld complaints,15756474
+2022 H1,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,362155
+2022 H1,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,24466
+2022 H1,Banking and credit cards,Complaints closed,Complaints closed within 3 days,476322
+2022 H1,Banking and credit cards,Complaints opened,Total,870995
+2022 H1,Banking and credit cards,Complaints upheld,Total complaints upheld,493845
+2022 H1,Banking and credit cards,Provision,Provision (at reporting period end date),359962605
+2022 H1,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,19662527
+2022 H1,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,97025525
+2022 H1,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,39830
+2022 H1,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,7172
+2022 H1,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,17921
+2022 H1,Decumulation & pensions,Complaints opened,Total,70201
+2022 H1,Decumulation & pensions,Complaints upheld,Total complaints upheld,42559
+2022 H1,Decumulation & pensions,Provision,Intermediation (within the reporting period),333638
+2022 H1,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",144082
+2022 H1,Decumulation & pensions,Provision,Provision (at reporting period end date),51245889
+2022 H1,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,3008898
+2022 H1,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,28969329
+2022 H1,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,50408
+2022 H1,Home finance,Complaints closed,Complaints closed > 8 weeks,3953
+2022 H1,Home finance,Complaints closed,Complaints closed within 3 days,30836
+2022 H1,Home finance,Complaints opened,Total,88615
+2022 H1,Home finance,Complaints upheld,Total complaints upheld,49548
+2022 H1,Home finance,Provision,Intermediation (within the reporting period),3237345
+2022 H1,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",7841505
+2022 H1,Home finance,Provision,Provision (at reporting period end date),416925386
+2022 H1,Home finance,Redress paid,Total redress paid for complaints not upheld,1094390
+2022 H1,Home finance,Redress paid,Total redress paid for upheld complaints,10444763
+2022 H1,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,350253
+2022 H1,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,58831
+2022 H1,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,435982
+2022 H1,Insurance & pure protection,Complaints opened,Total,842974
+2022 H1,Insurance & pure protection,Complaints upheld,Total complaints upheld,556900
+2022 H1,Insurance & pure protection,Provision,Intermediation (within the reporting period),42021349
+2022 H1,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",57962189
+2022 H1,Insurance & pure protection,Provision,Provision (at reporting period end date),339772170
+2022 H1,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,10423825
+2022 H1,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,116813969
+2022 H1,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,32937
+2022 H1,Investments,Complaints closed,Complaints closed > 8 weeks,6114
+2022 H1,Investments,Complaints closed,Complaints closed within 3 days,14699
+2022 H1,Investments,Complaints opened,Total,53926
+2022 H1,Investments,Complaints upheld,Total complaints upheld,28597
+2022 H1,Investments,Provision,Intermediation (within the reporting period),246045565
+2022 H1,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",1524403
+2022 H1,Investments,Provision,Provision (at reporting period end date),54433553
+2022 H1,Investments,Redress paid,Total redress paid for complaints not upheld,1674907
+2022 H1,Investments,Redress paid,Total redress paid for upheld complaints,15506064
+2022 H2,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,368610
+2022 H2,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,30266
+2022 H2,Banking and credit cards,Complaints closed,Complaints closed within 3 days,424830
+2022 H2,Banking and credit cards,Complaints opened,Total,824501
+2022 H2,Banking and credit cards,Complaints upheld,Total complaints upheld,483227
+2022 H2,Banking and credit cards,Provision,Provision (at reporting period end date),362289185
+2022 H2,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,16445884
+2022 H2,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,88389982
+2022 H2,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,43047
+2022 H2,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,10221
+2022 H2,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,19141
+2022 H2,Decumulation & pensions,Complaints opened,Total,73069
+2022 H2,Decumulation & pensions,Complaints upheld,Total complaints upheld,46163
+2022 H2,Decumulation & pensions,Provision,Intermediation (within the reporting period),1215739
+2022 H2,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",122046
+2022 H2,Decumulation & pensions,Provision,Provision (at reporting period end date),52064017
+2022 H2,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,3129500
+2022 H2,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,25760738
+2022 H2,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,58144
+2022 H2,Home finance,Complaints closed,Complaints closed > 8 weeks,9819
+2022 H2,Home finance,Complaints closed,Complaints closed within 3 days,28913
+2022 H2,Home finance,Complaints opened,Total,101381
+2022 H2,Home finance,Complaints upheld,Total complaints upheld,57574
+2022 H2,Home finance,Provision,Intermediation (within the reporting period),2866136
+2022 H2,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",1096082
+2022 H2,Home finance,Provision,Provision (at reporting period end date),284477587
+2022 H2,Home finance,Redress paid,Total redress paid for complaints not upheld,1328581
+2022 H2,Home finance,Redress paid,Total redress paid for upheld complaints,12997467
+2022 H2,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,340807
+2022 H2,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,48171
+2022 H2,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,331980
+2022 H2,Insurance & pure protection,Complaints opened,Total,754108
+2022 H2,Insurance & pure protection,Complaints upheld,Total complaints upheld,449054
+2022 H2,Insurance & pure protection,Provision,Intermediation (within the reporting period),37913138
+2022 H2,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",58479287
+2022 H2,Insurance & pure protection,Provision,Provision (at reporting period end date),334275632
+2022 H2,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,6822967
+2022 H2,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,58017252
+2022 H2,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,29907
+2022 H2,Investments,Complaints closed,Complaints closed > 8 weeks,5060
+2022 H2,Investments,Complaints closed,Complaints closed within 3 days,13577
+2022 H2,Investments,Complaints opened,Total,48676
+2022 H2,Investments,Complaints upheld,Total complaints upheld,26042
+2022 H2,Investments,Provision,Intermediation (within the reporting period),259769564
+2022 H2,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",630513
+2022 H2,Investments,Provision,Provision (at reporting period end date),620607015
+2022 H2,Investments,Redress paid,Total redress paid for complaints not upheld,1927842
+2022 H2,Investments,Redress paid,Total redress paid for upheld complaints,13559311
+2023 H1,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,367109
+2023 H1,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,41339
+2023 H1,Banking and credit cards,Complaints closed,Complaints closed within 3 days,443842
+2023 H1,Banking and credit cards,Complaints opened,Total,847498
+2023 H1,Banking and credit cards,Complaints upheld,Total complaints upheld,504569
+2023 H1,Banking and credit cards,Provision,Provision (at reporting period end date),372283052
+2023 H1,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,13677706
+2023 H1,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,96424604
+2023 H1,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,46416
+2023 H1,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,17797
+2023 H1,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,19127
+2023 H1,Decumulation & pensions,Complaints opened,Total,88101
+2023 H1,Decumulation & pensions,Complaints upheld,Total complaints upheld,54239
+2023 H1,Decumulation & pensions,Provision,Intermediation (within the reporting period),566283
+2023 H1,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",127159
+2023 H1,Decumulation & pensions,Provision,Provision (at reporting period end date),51091320
+2023 H1,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,2818672
+2023 H1,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,25159153
+2023 H1,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,51790
+2023 H1,Home finance,Complaints closed,Complaints closed > 8 weeks,13323
+2023 H1,Home finance,Complaints closed,Complaints closed within 3 days,30326
+2023 H1,Home finance,Complaints opened,Total,91511
+2023 H1,Home finance,Complaints upheld,Total complaints upheld,55349
+2023 H1,Home finance,Provision,Intermediation (within the reporting period),74281531
+2023 H1,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",114067
+2023 H1,Home finance,Provision,Provision (at reporting period end date),14438987
+2023 H1,Home finance,Redress paid,Total redress paid for complaints not upheld,1520465
+2023 H1,Home finance,Redress paid,Total redress paid for upheld complaints,12890649
+2023 H1,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,389072
+2023 H1,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,66207
+2023 H1,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,355784
+2023 H1,Insurance & pure protection,Complaints opened,Total,799004
+2023 H1,Insurance & pure protection,Complaints upheld,Total complaints upheld,507410
+2023 H1,Insurance & pure protection,Provision,Intermediation (within the reporting period),41679663
+2023 H1,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",48518282
+2023 H1,Insurance & pure protection,Provision,Provision (at reporting period end date),335065544
+2023 H1,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,5845927
+2023 H1,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,56528969
+2023 H1,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,35411
+2023 H1,Investments,Complaints closed,Complaints closed > 8 weeks,6438
+2023 H1,Investments,Complaints closed,Complaints closed within 3 days,13825
+2023 H1,Investments,Complaints opened,Total,59417
+2023 H1,Investments,Complaints upheld,Total complaints upheld,30875
+2023 H1,Investments,Provision,Intermediation (within the reporting period),295173174
+2023 H1,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",1276462
+2023 H1,Investments,Provision,Provision (at reporting period end date),50595912
+2023 H1,Investments,Redress paid,Total redress paid for complaints not upheld,1703987
+2023 H1,Investments,Redress paid,Total redress paid for upheld complaints,19929032
+2023 H2,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,417983
+2023 H2,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,35426
+2023 H2,Banking and credit cards,Complaints closed,Complaints closed within 3 days,472763
+2023 H2,Banking and credit cards,Complaints opened,Total,941685
+2023 H2,Banking and credit cards,Complaints upheld,Total complaints upheld,513445
+2023 H2,Banking and credit cards,Provision,Provision (at reporting period end date),410446187
+2023 H2,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,16236915
+2023 H2,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,89136543
+2023 H2,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,48327
+2023 H2,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,16362
+2023 H2,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,20624
+2023 H2,Decumulation & pensions,Complaints opened,Total,86908
+2023 H2,Decumulation & pensions,Complaints upheld,Total complaints upheld,56256
+2023 H2,Decumulation & pensions,Provision,Intermediation (within the reporting period),535198
+2023 H2,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",103859
+2023 H2,Decumulation & pensions,Provision,Provision (at reporting period end date),56409534
+2023 H2,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,5037548
+2023 H2,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,31687105
+2023 H2,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,57471
+2023 H2,Home finance,Complaints closed,Complaints closed > 8 weeks,6946
+2023 H2,Home finance,Complaints closed,Complaints closed within 3 days,31232
+2023 H2,Home finance,Complaints opened,Total,94881
+2023 H2,Home finance,Complaints upheld,Total complaints upheld,52978
+2023 H2,Home finance,Provision,Intermediation (within the reporting period),3912558
+2023 H2,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",107084
+2023 H2,Home finance,Provision,Provision (at reporting period end date),13002902
+2023 H2,Home finance,Redress paid,Total redress paid for complaints not upheld,1592341
+2023 H2,Home finance,Redress paid,Total redress paid for upheld complaints,12150419
+2023 H2,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,356592
+2023 H2,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,47151
+2023 H2,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,338537
+2023 H2,Insurance & pure protection,Complaints opened,Total,754195
+2023 H2,Insurance & pure protection,Complaints upheld,Total complaints upheld,432263
+2023 H2,Insurance & pure protection,Provision,Intermediation (within the reporting period),40205635
+2023 H2,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",49861563
+2023 H2,Insurance & pure protection,Provision,Provision (at reporting period end date),331339706
+2023 H2,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,13652976
+2023 H2,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,53733324
+2023 H2,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,37654
+2023 H2,Investments,Complaints closed,Complaints closed > 8 weeks,6606
+2023 H2,Investments,Complaints closed,Complaints closed within 3 days,14726
+2023 H2,Investments,Complaints opened,Total,61535
+2023 H2,Investments,Complaints upheld,Total complaints upheld,32916
+2023 H2,Investments,Provision,Intermediation (within the reporting period),180541717
+2023 H2,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",768501
+2023 H2,Investments,Provision,Provision (at reporting period end date),49270540
+2023 H2,Investments,Redress paid,Total redress paid for complaints not upheld,2783859
+2023 H2,Investments,Redress paid,Total redress paid for upheld complaints,35045191
+2024 H1,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,408136
+2024 H1,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,50302
+2024 H1,Banking and credit cards,Complaints closed,Complaints closed within 3 days,403381
+2024 H1,Banking and credit cards,Complaints opened,Total,851027
+2024 H1,Banking and credit cards,Complaints upheld,Total complaints upheld,477001
+2024 H1,Banking and credit cards,Provision,Provision (at reporting period end date),382732452
+2024 H1,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,16114778
+2024 H1,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,90212596
+2024 H1,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,49877
+2024 H1,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,15686
+2024 H1,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,21582
+2024 H1,Decumulation & pensions,Complaints opened,Total,93044
+2024 H1,Decumulation & pensions,Complaints upheld,Total complaints upheld,57291
+2024 H1,Decumulation & pensions,Provision,Intermediation (within the reporting period),299319
+2024 H1,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",146753
+2024 H1,Decumulation & pensions,Provision,Provision (at reporting period end date),51363986
+2024 H1,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,3786610
+2024 H1,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,36578661
+2024 H1,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,54565
+2024 H1,Home finance,Complaints closed,Complaints closed > 8 weeks,6304
+2024 H1,Home finance,Complaints closed,Complaints closed within 3 days,32978
+2024 H1,Home finance,Complaints opened,Total,93234
+2024 H1,Home finance,Complaints upheld,Total complaints upheld,51886
+2024 H1,Home finance,Provision,Intermediation (within the reporting period),4239186
+2024 H1,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",95017
+2024 H1,Home finance,Provision,Provision (at reporting period end date),17398867
+2024 H1,Home finance,Redress paid,Total redress paid for complaints not upheld,1209914
+2024 H1,Home finance,Redress paid,Total redress paid for upheld complaints,11072420
+2024 H1,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,379200
+2024 H1,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,48312
+2024 H1,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,337666
+2024 H1,Insurance & pure protection,Complaints opened,Total,764532
+2024 H1,Insurance & pure protection,Complaints upheld,Total complaints upheld,439575
+2024 H1,Insurance & pure protection,Provision,Intermediation (within the reporting period),40106411
+2024 H1,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",50747615
+2024 H1,Insurance & pure protection,Provision,Provision (at reporting period end date),308291618
+2024 H1,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,6754923
+2024 H1,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,55520856
+2024 H1,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,36672
+2024 H1,Investments,Complaints closed,Complaints closed > 8 weeks,9126
+2024 H1,Investments,Complaints closed,Complaints closed within 3 days,14312
+2024 H1,Investments,Complaints opened,Total,62829
+2024 H1,Investments,Complaints upheld,Total complaints upheld,33821
+2024 H1,Investments,Provision,Intermediation (within the reporting period),1911685493
+2024 H1,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",49392418
+2024 H1,Investments,Provision,Provision (at reporting period end date),142718822
+2024 H1,Investments,Redress paid,Total redress paid for complaints not upheld,1996941
+2024 H1,Investments,Redress paid,Total redress paid for upheld complaints,19939057
+2024 H2,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,400083
+2024 H2,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,32611
+2024 H2,Banking and credit cards,Complaints closed,Complaints closed within 3 days,408317
+2024 H2,Banking and credit cards,Complaints opened,Total,839577
+2024 H2,Banking and credit cards,Complaints upheld,Total complaints upheld,461575
+2024 H2,Banking and credit cards,Provision,Provision (at reporting period end date),391683898
+2024 H2,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,15784117
+2024 H2,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,91728862
+2024 H2,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,54984
+2024 H2,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,18036
+2024 H2,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,19994
+2024 H2,Decumulation & pensions,Complaints opened,Total,89173
+2024 H2,Decumulation & pensions,Complaints upheld,Total complaints upheld,63590
+2024 H2,Decumulation & pensions,Provision,Intermediation (within the reporting period),709500
+2024 H2,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",134521
+2024 H2,Decumulation & pensions,Provision,Provision (at reporting period end date),51490400
+2024 H2,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,4489717
+2024 H2,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,36539338
+2024 H2,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,48033
+2024 H2,Home finance,Complaints closed,Complaints closed > 8 weeks,5503
+2024 H2,Home finance,Complaints closed,Complaints closed within 3 days,31798
+2024 H2,Home finance,Complaints opened,Total,83936
+2024 H2,Home finance,Complaints upheld,Total complaints upheld,47097
+2024 H2,Home finance,Provision,Intermediation (within the reporting period),1406727
+2024 H2,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",90885
+2024 H2,Home finance,Provision,Provision (at reporting period end date),31698068
+2024 H2,Home finance,Redress paid,Total redress paid for complaints not upheld,1408297
+2024 H2,Home finance,Redress paid,Total redress paid for upheld complaints,11810988
+2024 H2,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,353033
+2024 H2,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,29485
+2024 H2,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,324620
+2024 H2,Insurance & pure protection,Complaints opened,Total,718738
+2024 H2,Insurance & pure protection,Complaints upheld,Total complaints upheld,404945
+2024 H2,Insurance & pure protection,Provision,Intermediation (within the reporting period),43649760
+2024 H2,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",43749618
+2024 H2,Insurance & pure protection,Provision,Provision (at reporting period end date),305758412
+2024 H2,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,4366096
+2024 H2,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,50116705
+2024 H2,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,36196
+2024 H2,Investments,Complaints closed,Complaints closed > 8 weeks,8716
+2024 H2,Investments,Complaints closed,Complaints closed within 3 days,11993
+2024 H2,Investments,Complaints opened,Total,52973
+2024 H2,Investments,Complaints upheld,Total complaints upheld,32715
+2024 H2,Investments,Provision,Intermediation (within the reporting period),141137566
+2024 H2,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",37605099
+2024 H2,Investments,Provision,Provision (at reporting period end date),57089322
+2024 H2,Investments,Redress paid,Total redress paid for complaints not upheld,926901
+2024 H2,Investments,Redress paid,Total redress paid for upheld complaints,18704287
+2025 H1,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,396674
+2025 H1,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,46923
+2025 H1,Banking and credit cards,Complaints closed,Complaints closed within 3 days,447050
+2025 H1,Banking and credit cards,Complaints opened,Total,899910
+2025 H1,Banking and credit cards,Complaints upheld,Total complaints upheld,517891
+2025 H1,Banking and credit cards,Provision,Provision (at reporting period end date),397017407
+2025 H1,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,16771612
+2025 H1,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,101920590
+2025 H1,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,60204
+2025 H1,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,16393
+2025 H1,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,19478
+2025 H1,Decumulation & pensions,Complaints opened,Total,94075
+2025 H1,Decumulation & pensions,Complaints upheld,Total complaints upheld,64841
+2025 H1,Decumulation & pensions,Provision,Intermediation (within the reporting period),195793
+2025 H1,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",159967
+2025 H1,Decumulation & pensions,Provision,Provision (at reporting period end date),51585667
+2025 H1,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,6140724
+2025 H1,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,38948895
+2025 H1,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,45915
+2025 H1,Home finance,Complaints closed,Complaints closed > 8 weeks,3503
+2025 H1,Home finance,Complaints closed,Complaints closed within 3 days,29929
+2025 H1,Home finance,Complaints opened,Total,78616
+2025 H1,Home finance,Complaints upheld,Total complaints upheld,43754
+2025 H1,Home finance,Provision,Intermediation (within the reporting period),1470807
+2025 H1,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",105055
+2025 H1,Home finance,Provision,Provision (at reporting period end date),12295833
+2025 H1,Home finance,Redress paid,Total redress paid for complaints not upheld,1454519
+2025 H1,Home finance,Redress paid,Total redress paid for upheld complaints,11253564
+2025 H1,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,347971
+2025 H1,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,31690
+2025 H1,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,316734
+2025 H1,Insurance & pure protection,Complaints opened,Total,697635
+2025 H1,Insurance & pure protection,Complaints upheld,Total complaints upheld,395809
+2025 H1,Insurance & pure protection,Provision,Intermediation (within the reporting period),48428732
+2025 H1,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",53724807
+2025 H1,Insurance & pure protection,Provision,Provision (at reporting period end date),317578541
+2025 H1,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,6605546
+2025 H1,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,78781381
+2025 H1,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,38389
+2025 H1,Investments,Complaints closed,Complaints closed > 8 weeks,8987
+2025 H1,Investments,Complaints closed,Complaints closed within 3 days,14010
+2025 H1,Investments,Complaints opened,Total,58310
+2025 H1,Investments,Complaints upheld,Total complaints upheld,33410
+2025 H1,Investments,Provision,Intermediation (within the reporting period),159092424
+2025 H1,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",44867393
+2025 H1,Investments,Provision,Provision (at reporting period end date),54547049
+2025 H1,Investments,Redress paid,Total redress paid for complaints not upheld,1033918
+2025 H1,Investments,Redress paid,Total redress paid for upheld complaints,20748545
+2025 H2,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,386726
+2025 H2,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,51477
+2025 H2,Banking and credit cards,Complaints closed,Complaints closed within 3 days,402499
+2025 H2,Banking and credit cards,Complaints opened,Total,857758
+2025 H2,Banking and credit cards,Complaints upheld,Total complaints upheld,456578
+2025 H2,Banking and credit cards,Provision,Provision (at reporting period end date),418553878
+2025 H2,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,18656834
+2025 H2,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,98011102
+2025 H2,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,57996
+2025 H2,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,11842
+2025 H2,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,19163
+2025 H2,Decumulation & pensions,Complaints opened,Total,88052
+2025 H2,Decumulation & pensions,Complaints upheld,Total complaints upheld,61008
+2025 H2,Decumulation & pensions,Provision,Intermediation (within the reporting period),239837
+2025 H2,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",141737
+2025 H2,Decumulation & pensions,Provision,Provision (at reporting period end date),52482508
+2025 H2,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,3754976
+2025 H2,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,34604526
+2025 H2,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,46866
+2025 H2,Home finance,Complaints closed,Complaints closed > 8 weeks,3039
+2025 H2,Home finance,Complaints closed,Complaints closed within 3 days,26414
+2025 H2,Home finance,Complaints opened,Total,75658
+2025 H2,Home finance,Complaints upheld,Total complaints upheld,42033
+2025 H2,Home finance,Provision,Intermediation (within the reporting period),1377038
+2025 H2,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",127685
+2025 H2,Home finance,Provision,Provision (at reporting period end date),13875318
+2025 H2,Home finance,Redress paid,Total redress paid for complaints not upheld,1220266
+2025 H2,Home finance,Redress paid,Total redress paid for upheld complaints,10752232
+2025 H2,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,325579
+2025 H2,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,24274
+2025 H2,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,308641
+2025 H2,Insurance & pure protection,Complaints opened,Total,665591
+2025 H2,Insurance & pure protection,Complaints upheld,Total complaints upheld,366759
+2025 H2,Insurance & pure protection,Provision,Intermediation (within the reporting period),44900316
+2025 H2,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",58737510
+2025 H2,Insurance & pure protection,Provision,Provision (at reporting period end date),325273625
+2025 H2,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,4695352
+2025 H2,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,44831913
+2025 H2,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,37650
+2025 H2,Investments,Complaints closed,Complaints closed > 8 weeks,5328
+2025 H2,Investments,Complaints closed,Complaints closed within 3 days,13534
+2025 H2,Investments,Complaints opened,Total,54278
+2025 H2,Investments,Complaints upheld,Total complaints upheld,29550
+2025 H2,Investments,Provision,Intermediation (within the reporting period),2328328748
+2025 H2,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",164540909
+2025 H2,Investments,Provision,Provision (at reporting period end date),847387596
+2025 H2,Investments,Redress paid,Total redress paid for complaints not upheld,1745478
+2025 H2,Investments,Redress paid,Total redress paid for upheld complaints,17490196
+2026 H1,Banking and credit cards,Complaints closed,Complaints closed > 3 days but within 8 weeks,397584
+2026 H1,Banking and credit cards,Complaints closed,Complaints closed > 8 weeks,53594
+2026 H1,Banking and credit cards,Complaints closed,Complaints closed within 3 days,446440
+2026 H1,Banking and credit cards,Complaints opened,Total,898877
+2026 H1,Banking and credit cards,Complaints upheld,Total complaints upheld,474436
+2026 H1,Banking and credit cards,Provision,Provision (at reporting period end date),430451776
+2026 H1,Banking and credit cards,Redress paid,Total redress paid for complaints not upheld,23771473
+2026 H1,Banking and credit cards,Redress paid,Total redress paid for upheld complaints,101766693
+2026 H1,Decumulation & pensions,Complaints closed,Complaints closed > 3 days but within 8 weeks,57042
+2026 H1,Decumulation & pensions,Complaints closed,Complaints closed > 8 weeks,11002
+2026 H1,Decumulation & pensions,Complaints closed,Complaints closed within 3 days,18603
+2026 H1,Decumulation & pensions,Complaints opened,Total,88701
+2026 H1,Decumulation & pensions,Complaints upheld,Total complaints upheld,61034
+2026 H1,Decumulation & pensions,Provision,Intermediation (within the reporting period),459227
+2026 H1,Decumulation & pensions,Provision,"Intermediation (within the reporting period)
+Number of policies sold",213410
+2026 H1,Decumulation & pensions,Provision,Provision (at reporting period end date),45977843
+2026 H1,Decumulation & pensions,Redress paid,Total redress paid for complaints not upheld,2175204
+2026 H1,Decumulation & pensions,Redress paid,Total redress paid for upheld complaints,29227169
+2026 H1,Home finance,Complaints closed,Complaints closed > 3 days but within 8 weeks,44086
+2026 H1,Home finance,Complaints closed,Complaints closed > 8 weeks,2503
+2026 H1,Home finance,Complaints closed,Complaints closed within 3 days,26092
+2026 H1,Home finance,Complaints opened,Total,72870
+2026 H1,Home finance,Complaints upheld,Total complaints upheld,39890
+2026 H1,Home finance,Provision,Intermediation (within the reporting period),3611624
+2026 H1,Home finance,Provision,"Intermediation (within the reporting period)
+Number of sales",144866
+2026 H1,Home finance,Provision,Provision (at reporting period end date),972543624
+2026 H1,Home finance,Redress paid,Total redress paid for complaints not upheld,1390569
+2026 H1,Home finance,Redress paid,Total redress paid for upheld complaints,8587445
+2026 H1,Insurance & pure protection,Complaints closed,Complaints closed > 3 days but within 8 weeks,369597
+2026 H1,Insurance & pure protection,Complaints closed,Complaints closed > 8 weeks,29139
+2026 H1,Insurance & pure protection,Complaints closed,Complaints closed within 3 days,312199
+2026 H1,Insurance & pure protection,Complaints opened,Total,722974
+2026 H1,Insurance & pure protection,Complaints upheld,Total complaints upheld,394881
+2026 H1,Insurance & pure protection,Provision,Intermediation (within the reporting period),45347610
+2026 H1,Insurance & pure protection,Provision,"Intermediation (within the reporting period)
+Number of policies sold",68995525
+2026 H1,Insurance & pure protection,Provision,Provision (at reporting period end date),325501983
+2026 H1,Insurance & pure protection,Redress paid,Total redress paid for complaints not upheld,4564674
+2026 H1,Insurance & pure protection,Redress paid,Total redress paid for upheld complaints,49514818
+2026 H1,Investments,Complaints closed,Complaints closed > 3 days but within 8 weeks,42829
+2026 H1,Investments,Complaints closed,Complaints closed > 8 weeks,4895
+2026 H1,Investments,Complaints closed,Complaints closed within 3 days,16409
+2026 H1,Investments,Complaints opened,Total,67935
+2026 H1,Investments,Complaints upheld,Total complaints upheld,32770
+2026 H1,Investments,Provision,Intermediation (within the reporting period),87328120
+2026 H1,Investments,Provision,"Intermediation (within the reporting period)
+Number of sales or equivalent transactions",311188522
+2026 H1,Investments,Provision,Provision (at reporting period end date),68309719
+2026 H1,Investments,Redress paid,Total redress paid for complaints not upheld,2920035
+2026 H1,Investments,Redress paid,Total redress paid for upheld complaints,16071655
